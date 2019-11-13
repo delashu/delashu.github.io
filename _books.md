@@ -4,6 +4,8 @@ title: Books
 nav_order: 2
 ---
 
+A list of books I have recently read.
+
 
 | Title        | Author            | Date Started | Date Completed |
 |:-------------|:------------------|:-------------|:---------------|
