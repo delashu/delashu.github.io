@@ -40,7 +40,7 @@ A list of books I have recently read.
 | Astroball | Ben Reiter   | NA         | NA           |
 | Black Swan | Nassum Nicholas Taleb   | NA         | NA           |
 | Missing Persons | Patrick Modiano   | NA         | NA           |
-| Buddha in the Attic | Julie Otsuka   | NA         | NA           |
+| The Buddha in the Attic | Julie Otsuka   | NA         | NA           |
 
 
 
