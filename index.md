@@ -1,3 +1,15 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
+---
+layout: default
+title: Projects
+nav_order: 2
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/delashu/delashu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
