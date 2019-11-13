@@ -38,7 +38,7 @@ A list of books I have recently read.
 | Hard-Boiled Wonderland and the End of the World | Haruki Murakami   | NA         | NA           |
 | Nocturnes | Kazuo Ishiguro   | NA         | NA           |
 | Astroball | Ben Reiter   | NA         | NA           |
-| Black Swan | Nassum Nicholas Taleb   | NA         | NA           |
+| The Black Swan | Nassum Nicholas Taleb   | NA         | NA           |
 | Missing Persons | Patrick Modiano   | NA         | NA           |
 | The Buddha in the Attic | Julie Otsuka   | NA         | NA           |
 
