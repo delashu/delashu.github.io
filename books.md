@@ -30,12 +30,16 @@ A list of books I have recently read.
 | The Art of Possibility | Rosamind and Benjamin Zander   | NA         | NA           |
 | Pachinko | Min Jin Lee   | NA         | NA           |
 | Never Let Me Go | Kazuo Ishiguro   | NA         | NA           |
+| When: The Scientific Secrets to Perfect Timing | Daniel H. Pink   | NA         | NA           |
+| The Art of Statistics | David Spiegelhalter   | NA         | NA           |
+| Remains of the Day | Kazuo Ishiguro   | NA         | NA           |
 | The Metamorphosis | Franz Kafka   | NA         | NA           |
 | In Praise of Shadows | Junichiro Tanizaki   | NA         | NA           |
 | Hard-Boiled Wonderland and the End of the World | Haruki Murakami   | NA         | NA           |
 | Nocturnes | Kazuo Ishiguro   | NA         | NA           |
 | Astroball | Ben Reiter   | NA         | NA           |
 | Black Swan | Nassum Nicholas Taleb   | NA         | NA           |
+| Missing Persons | Patrick Modiano   | NA         | NA           |
 | Buddha in the Attic | Julie Otsuka   | NA         | NA           |
 
 
