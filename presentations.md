@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Presentations
+title: Research and Presentations
 nav_order: 2
 ---
 
