@@ -21,7 +21,7 @@ Yearly Deep Learning and Machine Learning Journal Club Symposium Oral and Poster
 
 Mayo Clinic SUMIT Knowledge Sharing Seminar: Filling in the Gaps with R Education (November 2019). 
 
-The University of Wisconsin – La Crosse Mathematics & Statistics Undergraduate Summer Research Experience Guest Speaker Presentation: Control Tower: A Platform to Deliver Clinical Centered Machine Leraning Models (July 2019)
+The University of Wisconsin La Crosse Mathematics & Statistics Undergraduate Summer Research Experience Guest Speaker Presentation: Control Tower: A Platform to Deliver Clinical Centered Machine Leraning Models (July 2019)
 
 Mayo Clinic BSI Research Oriented Group Meeting Oral Presentation: Control Tower: A Platform to Deliver Clinical Centered Machine Leraning Models (April 2019). 
 
