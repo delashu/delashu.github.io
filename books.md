@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Books
+title: Misc.
 nav_order: 3
 ---
 
