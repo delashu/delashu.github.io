@@ -4,6 +4,15 @@ title: Misc.
 nav_order: 4
 ---
 
+### a'R't
+
+Cool plots created in 'R'  
+
+
+
+
+### Books 
+
 A list of books I have recently read.
 
 
