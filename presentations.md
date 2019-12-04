@@ -25,7 +25,7 @@ The University of Wisconsin La Crosse Mathematics & Statistics Undergraduate Sum
 
 Mayo Clinic BSI Research Oriented Group Meeting Oral Presentation: Control Tower: A Platform to Deliver Clinical Centered Machine Leraning Models (April 2019). 
 
-[University of Wisconsin Madison College of Engineering Undergraduate Research Poster Session](https://github.com/delashu/Modeling_the_BBB) Modeling the Blood Brain Barrier with Stem Cell Derived Endothelial Cells and Astrocytes. Presentation (Spring 2016)
+[University of Wisconsin Madison College of Engineering Undergraduate Research Poster Session](https://github.com/delashu/Modeling_the_BBB) Modeling the Blood Brain Barrier with Stem Cell Derived Endothelial Cells and Astrocytes (Spring 2016)
 
 [University of Wisconsin Madison College of Engineering Undergraduate Research Poster Session Presentation](https://github.com/delashu/Modeling_the_Neurovascular_Unit) Modeling the Neurovascular Unit with Stem Cell Derived Endothelial Cells and Small Molecules Released in the Brain Parenchyma. (Fall 2015)
 
