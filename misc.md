@@ -21,37 +21,38 @@ A list of books I have recently read.
 | Title        | Author            | Date Started | Date Completed |
 |:-------------|:------------------|:-------------|:---------------|
 | Happy City            | Charles Montgomery | NA         | 09/2018           |
-| 1984 | George Orwell   | NA         | NA           |
-| Harry Potter and the Order of the Pheonix           | JK Rowling      | NA          | NA           |
-| Guns, Germs, and Steel           | Jerad Diamond | NA        | NA           |
-| Of Mice and Men | John Steinbeck   | NA         | NA           |
-| The Power of Habit | Charles Duhigg   | NA         | NA           |
-| Fahrenheit 451 | Ray Bradbury   | NA         | NA           |
-| The Sun Also Rises | Ernest Hemingway   | NA         | NA           |
-| Uncensored | Zachary Wood   | NA         | NA           |
-| Crazy Rich Asians | Kevin Kwan   | NA         | NA           |
-| Hundred Years of Solitude | Gabriel Gacria Marquez   | NA         | NA           |
-| The Book of Why | Judea Pearl  | NA         | NA           |
-| Shoe Dog | Phil Knight   | NA         | NA           |
-| The Design of Everyday Things | Donald Norman   | NA         | NA           |
-| Kafka on the Shore | Haruki Murakami   | NA         | NA           |
-| A Modern History of Japan | Andrew Gordon   | NA         | NA           |
-| Siddhartha | Herman Hesse   | NA         | NA           |
-| The New Jim Crow | Michelle Alexander   | NA         | NA           |
-| The Art of Possibility | Rosamind and Benjamin Zander   | NA         | NA           |
-| Pachinko | Min Jin Lee   | NA         | NA           |
-| Never Let Me Go | Kazuo Ishiguro   | NA         | NA           |
-| When: The Scientific Secrets to Perfect Timing | Daniel H. Pink   | NA         | NA           |
-| The Art of Statistics | David Spiegelhalter   | NA         | NA           |
-| Remains of the Day | Kazuo Ishiguro   | NA         | NA           |
-| The Metamorphosis | Franz Kafka   | NA         | NA           |
-| In Praise of Shadows | Junichiro Tanizaki   | NA         | NA           |
-| Hard-Boiled Wonderland and the End of the World | Haruki Murakami   | NA         | NA           |
-| Nocturnes | Kazuo Ishiguro   | NA         | NA           |
-| Astroball | Ben Reiter   | NA         | NA           |
-| The Black Swan | Nassum Nicholas Taleb   | NA         | NA           |
-| Missing Persons | Patrick Modiano   | NA         | NA           |
-| The Buddha in the Attic | Julie Otsuka   | NA         | NA           |
+| 1984 | George Orwell   | NA         | 09/2018           |
+| Harry Potter and the Order of the Pheonix           | JK Rowling      | NA          | 09/2018           |
+| Guns, Germs, and Steel           | Jerad Diamond | NA        | 11/2018           |
+| Of Mice and Men | John Steinbeck   | NA         | 11/2018           |
+| The Power of Habit | Charles Duhigg   | NA         | 11/2018           |
+| Fahrenheit 451 | Ray Bradbury   | NA         | 11/2018           |
+| The Sun Also Rises | Ernest Hemingway   | NA         | 12/2018           |
+| Uncensored | Zachary Wood   | NA         | 12/2018           |
+| Crazy Rich Asians | Kevin Kwan   | 01/2019         | 01/2019           |
+| Hundred Years of Solitude | Gabriel Gacria Marquez   | NA         | 02/2019           |
+| The Book of Why | Judea Pearl  | NA         | 03/2019           |
+| Shoe Dog | Phil Knight   | NA         | 03/2019           |
+| The Design of Everyday Things | Donald Norman   | NA         | 04/2019           |
+| Kafka on the Shore | Haruki Murakami   | 04/2019         | 05/2019           |
+| A Modern History of Japan | Andrew Gordon   | 05/2019         | 06/2019           |
+| Siddhartha | Herman Hesse   | 06/2019         | 06/2019           |
+| The New Jim Crow | Michelle Alexander   | 01/2018         | 07/2019           |
+| The Art of Possibility | Rosamind and Benjamin Zander   | 6/2019         | 07/2019           |
+| Pachinko | Min Jin Lee   | 06/2019         | 08/2019           |
+| Never Let Me Go | Kazuo Ishiguro   | 07/2019         | 08/2019           |
+| When: The Scientific Secrets to Perfect Timing | Daniel H. Pink   | 08/2019         | 08/2019           |
+| The Art of Statistics | David Spiegelhalter   | 7/2019         | 08/2019           |
+| Remains of the Day | Kazuo Ishiguro   | 08/2019         | 09/2019           |
+| The Metamorphosis | Franz Kafka   | 09/2019         | 09/2019           |
+| In Praise of Shadows | Junichiro Tanizaki   | 09/2019         | 09/2019           |
+| Hard-Boiled Wonderland and the End of the World | Haruki Murakami   | 09/2019         | 10/2019           |
+| Nocturnes | Kazuo Ishiguro   | 09/2019         | 10/2019           |
+| Astroball | Ben Reiter   | 10/2019         | 11/2019           |
+| The Black Swan | Nassum Nicholas Taleb   | 10/2019         | In Progress           |
+| Missing Persons | Patrick Modiano   | 10/2019         | 11/2019           |
+| The Buddha in the Attic | Julie Otsuka   | 11/2019         | In Progress           |
+| The Sympathizer | Viet Thanh Nguyen   | 11/2019         | In Progress           |
 
 
 
