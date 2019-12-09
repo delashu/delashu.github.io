@@ -38,11 +38,11 @@ A list of books I have recently read.
 | A Modern History of Japan | Andrew Gordon   | 05/2019         | 06/2019           |
 | Siddhartha | Herman Hesse   | 06/2019         | 06/2019           |
 | The New Jim Crow | Michelle Alexander   | 01/2018         | 07/2019           |
-| The Art of Possibility | Rosamind and Benjamin Zander   | 6/2019         | 07/2019           |
+| The Art of Possibility | Rosamind and Benjamin Zander   | 06/2019         | 07/2019           |
 | Pachinko | Min Jin Lee   | 06/2019         | 08/2019           |
 | Never Let Me Go | Kazuo Ishiguro   | 07/2019         | 08/2019           |
 | When: The Scientific Secrets to Perfect Timing | Daniel H. Pink   | 08/2019         | 08/2019           |
-| The Art of Statistics | David Spiegelhalter   | 7/2019         | 08/2019           |
+| The Art of Statistics | David Spiegelhalter   | 07/2019         | 08/2019           |
 | Remains of the Day | Kazuo Ishiguro   | 08/2019         | 09/2019           |
 | The Metamorphosis | Franz Kafka   | 09/2019         | 09/2019           |
 | In Praise of Shadows | Junichiro Tanizaki   | 09/2019         | 09/2019           |
