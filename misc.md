@@ -51,8 +51,8 @@ A list of books I have recently read.
 | Astroball | Ben Reiter   | 10/2019         | 11/2019           |
 | The Black Swan | Nassum Nicholas Taleb   | 10/2019         | In Progress           |
 | Missing Persons | Patrick Modiano   | 10/2019         | 11/2019           |
-| The Buddha in the Attic | Julie Otsuka   | 11/2019         | In Progress           |
+| The Buddha in the Attic | Julie Otsuka   | 12/2019         | 12/2019           |
 | The Sympathizer | Viet Thanh Nguyen   | 11/2019         | In Progress           |
-
+| Go Ahead in the Rain: Notes to A Tribe Called Quest |  Hanif Abdurraqib   | 12/2019         | In Progress           |
 
 
