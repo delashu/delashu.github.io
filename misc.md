@@ -56,4 +56,4 @@ A list of books I have recently read.
 | Go Ahead in the Rain: Notes to A Tribe Called Quest |  Hanif Abdurraqib   | 12/2019         | 12/2019           |
 | The Paper Menagerie |  Ken Liu   | 12/2019         | In Progress           |
 | The Autobiography of Malcolm X |  Alex Haley and Malcolm X   | 02/2020         | In Progress           |
-| The Healing of America |  T.R. Reid   | 02/2020         | In Progress           |
+| The Healing of America |  T.R. Reid   | 02/2020         | 02/2020           |
