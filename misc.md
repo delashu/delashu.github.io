@@ -58,3 +58,4 @@ A list of books I have recently read.
 | The Healing of America |  T.R. Reid   | 02/2020         | 02/2020           |
 | Eleven Rings: The Soul of Success |  Phil Jackson   | 03/2020         | 03/2020           |
 | Where the Crawdads Sing |  Delia Owens   | 03/2020         | 03/2020           |
+| The Signal and the Noise |  Nate Silver   | 04/2020         | In Progress           |
