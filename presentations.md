@@ -9,6 +9,8 @@ nav_order: 3
 
 ## Presentations                     
 
+[Data Science at the Mayo Clinic](https://github.com/delashu/SDSS_2020) (Symposium on Data Science and Statistics 2020, June 2020)
+
 [Model Prediction Interpretation with Shapley Additive Explanations](https://github.com/delashu/SHAP) (Mayo Clinic Applied Statistics Seminar, October 2019)
 
 [Mayo Clinic Artificial Intelligence Symposium 2019 Poster Session](https://github.com/delashu/Mayo-Clinic-Artificial-Intelligence-Symposium-2019): Prediction in Practice: An Implementation Framework for Clinical Centered Machine Learning Models (May 2019)
