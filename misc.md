@@ -17,7 +17,7 @@ Code used to create this plot is found [here](https://github.com/delashu/aRt/blo
 
 A list of books I have recently read.
 
-| Title        | Author            | Date Started | Date Completed |
+| Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
 | The Lady Tasting Tea |  David Salsburg   | 12/2020         | In Progress           |
 | Everyday Ubuntu |  Mungi Ngomane   | 11/2020         | 12/2020           |
