@@ -19,7 +19,8 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
-| The Lady Tasting Tea |  David Salsburg   | 12/2020         | In Progress           |
+| Convenience Store Woman |  Sayaka Murata   | 12/2020         | 12/2020           |
+| The Lady Tasting Tea |  David Salsburg   | 12/2020         | 12/2020           |
 | Everyday Ubuntu |  Mungi Ngomane   | 11/2020         | 12/2020           |
 | The Buried Giant |  Kazuo Ishiguro   | 10/2020         | 11/2020           |
 | Emperor of All Maladies |  Siddhartha Mukherjee   | 06/2020         | 08/2020           |
