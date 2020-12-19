@@ -69,6 +69,10 @@ A list of books I have recently read.
 | 1984 | George Orwell   | NA         | 09/2018           |
 | Happy City            | Charles Montgomery | NA         | 09/2018           |
 
+### Best Books I read in 2020  <sub><sup>(written on 12/20/2020)</sup></sub>  
+- The Lady Tasting Tea (Salsburg) 
+- Convenience Store Woman (Murata)
+- The Black Swan (Taleb)  
 
 ### My Favorite Albums of 2020  <sub><sup>(written on 12/19/2020)</sup></sub>  
 - Circles (Mac Miller)  
