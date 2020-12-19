@@ -70,9 +70,10 @@ A list of books I have recently read.
 | Happy City            | Charles Montgomery | NA         | 09/2018           |
 
 
-### My Favorite Albums of 2020
+### My Favorite Albums of 2020 
+<sub><sup>(12/19/2020)</sup></sub>
 - Circles (Mac Miller)  
 - Un Canto Por México, Vol. 1 (Natalia LaFourcade)  
-- The Abnormal (The Strokes)  
+- The New Abnormal (The Strokes)  
   
 *Notable Mentions*: RTJ4 (Run the Jewels), Future Nostalgia (Dua Lipa)  
