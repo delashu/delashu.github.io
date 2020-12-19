@@ -74,4 +74,5 @@ A list of books I have recently read.
 - Circles (Mac Miller)  
 - Un Canto Por México, Vol. 1 (Natalia LaFourcade)  
 - The Abnormal (The Strokes)  
+  
 *Notable Mentions*: RTJ4 (Run the Jewels), Future Nostalgia (Dua Lipa)  
