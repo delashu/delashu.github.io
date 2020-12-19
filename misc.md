@@ -68,3 +68,10 @@ A list of books I have recently read.
 | Harry Potter and the Order of the Pheonix           | JK Rowling      | NA          | 09/2018           |
 | 1984 | George Orwell   | NA         | 09/2018           |
 | Happy City            | Charles Montgomery | NA         | 09/2018           |
+
+
+### My Favorite Albums of 2020
+1. Circles (Mac Miller)
+2. Un Canto Por México, Vol. 1 (Natalia LaFourcade)
+3. The Abnormal (The Strokes)
+*Notable Mentions*: RTJ4 (Run the Jewels), Future Nostalgia (Dua Lipa)
