@@ -72,7 +72,7 @@ A list of books I have recently read.
 ### Best books I read in 2020  <sub><sup>(written on 12/20/2020)</sup></sub>  
 - The Lady Tasting Tea (Salsburg) 
 - Convenience Store Woman (Murata)
-- The Black Swan (Taleb)  
+- Embracing Defeat (Dower)  
 
 ### My favorite albums of 2020  <sub><sup>(written on 12/19/2020)</sup></sub>  
 - Circles (Mac Miller)  
