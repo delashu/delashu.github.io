@@ -19,6 +19,7 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| Manufacturing Consent (2002 Ed.) |  Edward Herman & Noam Chomsky   | 12/2020         | In Progress           |
 | Fear and Trembling |  Amélie Nothomb   | 12/2020         | 12/2020           |
 | Embracing Defeat |  James Dower   | 05/2020         | 12/2020           |
 | Kitchen |  Banana Yoshimoto   | 12/2020         | 12/2020           |
