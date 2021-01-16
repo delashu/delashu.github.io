@@ -83,7 +83,7 @@ It’s easy to get lost in the minutiae while studying statistics, but this book
 
 
 <DT>Convenience Store Woman (Murata)
-<DD><BLOCKQUOTE><I>Until now, we’d always had meaningful worker-manager discussions: “It’s been hot lately, so the sales of chocolate desserts are down,” or “There’s a new block of flats down the road, so we’ve been getting more customers in the evening”… Now, however, it felt like he’d downgraded me from store worker to female of the human species.</I></BLOCKQUOTE>This passage from Murata was perfect - hilarious, sad, and a bit sobering. Murata’s efficacy lies in allowing the reader to simultaneously relate and collide with Miss Furukawa’s psyche. We cheer for her, are confused by her, laugh at her, and laugh with her. I grappled with all those thoughts and then some when reading this passage and the rest of Murata’s novel.
+<DD><BLOCKQUOTE><I>Until now, we’d always had meaningful worker-manager discussions: “It’s been hot lately, so the sales of chocolate desserts are down,” or “There’s a new block of flats down the road, so we’ve been getting more customers in the evening”… Now, however, it felt like he’d downgraded me from store worker to female of the human species.</I></BLOCKQUOTE>This passage from Murata was perfect - hilarious, sad, and a bit sobering. Murata’s efficacy lies in allowing the reader to simultaneously relate and collide with Miss Furukawa’s psyche. We cheer for her, are confused by her, laugh at her, and laugh with her. I grappled with all of these thoughts and then some when reading this passage and the rest of Murata’s novel.
 
 
 <DT>Embracing Defeat (Dower)
