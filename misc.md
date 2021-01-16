@@ -72,7 +72,7 @@ A list of books I have recently read.
 | Happy City            | Charles Montgomery | NA         | 09/2018           |
 
 ### Best books I read in 2020  <sub><sup>(written on 12/20/2020)</sup></sub>  
-- The Lady Tasting Tea (Salsburg) 
+- <B> The Lady Tasting Tea (Salsburg)</B> <BR>
 The more I journey into the study of statistics, the more I see it as a philosophical science. Perhaps the rigorous endeavor of any subject results in using the subject’s laws to make sense of our reality. Even so, I thought I would write a few of the lasting impressions that this book and statistics as a whole – a science typically not seen in a philosophical light - leaves on my worldview. <BR>
 Statistics attempts to make sense of reality by assigning quantities such as proportions, risks, and probabilities to events. Underlying this process is how these events are generated. In statistical jargon, this is often termed the “data generating mechanism”. Salsburg provides a historical account of the science community’s evolving ideas on how the events in our world are generated. Two camps of thought are brought to light in this regard: The Deterministic and Random camps.
 A deterministic worldview, propelled by Newtonian physics in the nineteenth century, is centered by the idea that reality is governed by predetermined forces. Thus as science advances and the precision of measurements improves, we get closer to the true governing forces that rule reality (i.e. the gravitational constant). In this framework, randomness does not exist. Rather, science has not yet discovered the laws that govern our reality, and thus the assignment of what we do not understand as “random” is erroneous. <BR>
@@ -80,14 +80,14 @@ Karl Pearson deviated from deterministic thought in the early twentieth century 
 Irrespective of whether one believes in randomness or determinism, modern sciences stand on the foundation of Pearson’s mathematical distribution functions – a fact that is often overlooked. Pearson’s groundwork led to the birth of maximum likelihood, hypothesis testing, and p-values (heavy lifting from Fisher), which stand as absolutes in modern science. <BR>
 It’s easy to get lost in the minutiae while studying statistics, but this book and Pearson appeal to re-evaluating concepts, equations, and formulas from a grander perspective. A once contrarian philosophy that our world is random rather than determined has led to the fruition of a scientific revolution and continued imprint in modern discovery. 
   
-- Convenience Store Woman (Murata)
+- <B>Convenience Store Woman (Murata)</B><BR>
 <BLOCKQUOTE>
 <I>Until now, we’d always had meaningful worker-manager discussions: “It’s been hot lately, so the sales of chocolate desserts are down,” or “There’s a new block of flats down the road, so we’ve been getting more customers in the evening”… Now, however, it felt like he’d downgraded me from store worker to female of the human species.</I> 
 </BLOCKQUOTE>
 This passage from Murata was perfect - hilarious, sad, and a bit sobering. Murata’s efficacy lies in allowing the reader to simultaneously relate and collide with Miss Furukawa’s psyche. We cheer for her, are confused by her, laugh at her, and laugh with her. I grappled with all those thoughts and then some when reading this passage and the rest of Murata’s novel. 
 
   
-- Embracing Defeat (Dower)  
+- <B> Embracing Defeat (Dower)</B>  <BR>
 
 The process of the post-WWII democratization, demilitarization, and liberation of the collective Japanese mind from a power-hungry empire was, to say the least, complex. Inevitably, the undertaking of such a sweeping process comes with its fair share of consequences. Dower’s succinctly illuminates the lasting effects of these consequences:
 <BLOCKQUOTE>
