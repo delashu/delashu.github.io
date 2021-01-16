@@ -80,7 +80,7 @@ Karl Pearson deviated from deterministic thought in the early twentieth century 
 Irrespective of whether one believes in randomness or determinism, modern sciences stand on the foundation of Pearson’s mathematical distribution functions – a fact that is often overlooked. Pearson’s groundwork led to the birth of maximum likelihood, hypothesis testing, and p-values (heavy lifting from Fisher), which stand as absolutes in modern science. <BR>
 It’s easy to get lost in the minutiae while studying statistics, but this book and Pearson appeal to re-evaluating concepts, equations, and formulas from a grander perspective. A once contrarian philosophy that our world is random rather than determined has led to the fruition of a scientific revolution and continued imprint in modern discovery. 
   
-- <B>Convenience Store Woman (Murata)</B><BR>
+- <B> Convenience Store Woman (Murata)</B> <BR>
 <BLOCKQUOTE>
 <I>Until now, we’d always had meaningful worker-manager discussions: “It’s been hot lately, so the sales of chocolate desserts are down,” or “There’s a new block of flats down the road, so we’ve been getting more customers in the evening”… Now, however, it felt like he’d downgraded me from store worker to female of the human species.</I> 
 </BLOCKQUOTE>
