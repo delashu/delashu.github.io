@@ -73,6 +73,16 @@ A list of books I have recently read.
 
 ### Best books I read in 2020  <sub><sup>(written on 12/20/2020)</sup></sub>  
 - The Lady Tasting Tea (Salsburg) 
+<BLOCKQUOTE>
+  The more I journey into the study of statistics, the more I see it as a philosophical science. Perhaps the rigorous endeavor of any subject results in using the subject’s laws to make sense of our reality. Even so, I thought I would write a few of the lasting impressions that this book and statistics as a whole – a science typically not seen in a philosophical light - leaves on my worldview. 
+Statistics attempts to make sense of reality by assigning quantities such as proportions, risks, and probabilities to events. Underlying this process is how these events are generated. In statistical jargon, this is often termed the “data generating mechanism”. Salsburg provides a historical account of the science community’s evolving ideas on how the events in our world are generated. Two camps of thought are brought to light in this regard: The Deterministic and Random camps.
+A deterministic worldview, propelled by Newtonian physics in the nineteenth century, is centered by the idea that reality is governed by predetermined forces. Thus as science advances and the precision of measurements improves, we get closer to the true governing forces that rule reality (i.e. the gravitational constant). In this framework, randomness does not exist. Rather, science has not yet discovered the laws that govern our reality, and thus the assignment of what we do not understand as “random” is erroneous. 
+Karl Pearson deviated from deterministic thought in the early twentieth century and conceived of the distribution function, claiming that statistical distributions describe the fundamental randomness of reality. Pearson spearheaded the “Random” camp, asserting that observable phenomena are a result of a bunch of random processes. The gravitational constant in this framework is not one specific value, but rather is derived from a distribution of gravitational constants. The gravitation constant we use, 6.67 × 10-11, is the value that is most likely to be observed from all the experiments we have performed.
+Irrespective of whether one believes in randomness or determinism, modern sciences stand on the foundation of Pearson’s mathematical distribution functions – a fact that is often overlooked. Pearson’s groundwork led to the birth of maximum likelihood, hypothesis testing, and p-values (heavy lifting from Fisher), which stand as absolutes in modern science. 
+It’s easy to get lost in the minutiae while studying statistics, but this book and Pearson appeal to re-evaluating concepts, equations, and formulas from a grander perspective. A once contrarian philosophy that our world is random rather than determined has led to the fruition of a scientific revolution and continued imprint in modern discovery. 
+
+</BLOCKQUOTE>
+  
 - Convenience Store Woman (Murata)
 - Embracing Defeat (Dower)  
 
