@@ -81,14 +81,15 @@ Irrespective of whether one believes in randomness or determinism, modern scienc
 It’s easy to get lost in the minutiae while studying statistics, but this book and Pearson appeal to re-evaluating concepts, equations, and formulas from a grander perspective. A once contrarian philosophy that our world is random rather than determined has led to the fruition of a scientific revolution and continued imprint in modern discovery. 
   
 - <B> Convenience Store Woman (Murata)</B> <BR>
-<BLOCKQUOTE>
+
 <I>Until now, we’d always had meaningful worker-manager discussions: “It’s been hot lately, so the sales of chocolate desserts are down,” or “There’s a new block of flats down the road, so we’ve been getting more customers in the evening”… Now, however, it felt like he’d downgraded me from store worker to female of the human species.</I> 
-</BLOCKQUOTE>
-This passage from Murata was perfect - hilarious, sad, and a bit sobering. Murata’s efficacy lies in allowing the reader to simultaneously relate and collide with Miss Furukawa’s psyche. We cheer for her, are confused by her, laugh at her, and laugh with her. I grappled with all those thoughts and then some when reading this passage and the rest of Murata’s novel. <BR>
+<BLOCKQUOTE>
+This passage from Murata was perfect - hilarious, sad, and a bit sobering. Murata’s efficacy lies in allowing the reader to simultaneously relate and collide with Miss Furukawa’s psyche. We cheer for her, are confused by her, laugh at her, and laugh with her. I grappled with all those thoughts and then some when reading this passage and the rest of Murata’s novel.
+ </BLOCKQUOTE>
   
 - <B> Embracing Defeat (Dower)</B>  <BR>
 
-The process of the post-WWII democratization, demilitarization, and liberation of the collective Japanese mind from a power-hungry empire was, to say the least, complex. Inevitably, the undertaking of such a sweeping process comes with its fair share of consequences. Dower’s succinctly illuminates the lasting effects of these consequences:
+The process of the post-WWII democratization, demilitarization, and liberation of the collective Japanese mind from a power-hungry empire was, to say the least, complex. Inevitably, the undertaking of such a sweeping process comes with its fair share of consequences. Dower’s succinctly illuminates the lasting effects of these consequences:<BR>
 <BLOCKQUOTE>
 <I>“For all their talk of democracy, the conquerors worked hard to engineer consensus; and on many critical issues, they made clear that the better part of political wisdom was silence and conformism. So well did they succeed in reinforcing this consciousness that after they left, and time passed, many non-Japanese including Americans came to regard such attitudes as peculiarly Japanese.”</I>
 </BLOCKQUOTE>
