@@ -84,11 +84,21 @@ It’s easy to get lost in the minutiae while studying statistics, but this book
 </BLOCKQUOTE>
   
 - Convenience Store Woman (Murata)
-<BR>
+<BLOCKQUOTE>
  <I>Until now, we’d always had meaningful worker-manager discussions: “It’s been hot lately, so the sales of chocolate desserts are down,” or “There’s a new block of flats down the road, so we’ve been getting more customers in the evening”… Now, however, it felt like he’d downgraded me from store worker to female of the human species.</I> <BR>
 This passage from Murata was perfect - hilarious, sad, and a bit sobering. Murata’s efficacy lies in allowing the reader to simultaneously relate and collide with Miss Furukawa’s psyche. We cheer for her, are confused by her, laugh at her, and laugh with her. I grappled with all those thoughts and then some when reading this passage and the rest of Murata’s novel. 
-
+</BLOCKQUOTE>
+  
 - Embracing Defeat (Dower)  
+<BLOCKQUOTE>
+  The process of the post-WWII democratization, demilitarization, and liberation of the collective Japanese mind from a power-hungry empire was, to say the least, complex. Inevitably, the undertaking of such a sweeping process comes with its fair share of consequences. Dower’s succinctly illuminates the lasting effects of these consequences:
+ <BR>
+<I>“For all their talk of democracy, the conquerors worked hard to engineer consensus; and on many critical issues, they made clear that the better part of political wisdom was silence and conformism. So well did they succeed in reinforcing this consciousness that after they left, and time passed, many non-Japanese including Americans came to regard such attitudes as peculiarly Japanese.”</I>
+<BR>
+
+What an insightful passage. While it is true that the conception that Japanese were silent and conformist pre-occupation, the result of occupation-led censorship and control perpetuated and more importantly made these traits truly tangible – especially to the rest of the world. Perhaps most mind racking is the stark contrast of the legacies left behind of these actions. The conquerors brought democracy and order swiftly without making too much noise. Yet they left behind some of today’s most quintessential traits of the Japanese.
+
+</BLOCKQUOTE>
 
 ### My favorite albums of 2020  <sub><sup>(written on 12/19/2020)</sup></sub>  
 - Circles (Mac Miller)  
