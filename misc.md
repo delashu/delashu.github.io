@@ -82,19 +82,16 @@ A deterministic worldview, propelled by Newtonian physics in the nineteenth cent
 Karl Pearson deviated from deterministic thought in the early twentieth century and conceived of the distribution function, claiming that statistical distributions describe the fundamental randomness of reality. Pearson spearheaded the “Random” camp, asserting that observable phenomena are a result of a bunch of random processes. The gravitational constant in this framework is not one specific value, but rather is derived from a distribution of gravitational constants. The gravitation constant we use, 6.67 × 10-11, is the value that is most likely to be observed from all the experiments we have performed.<BR>
 Irrespective of whether one believes in randomness or determinism, modern sciences stand on the foundation of Pearson’s mathematical distribution functions – a fact that is often overlooked. Pearson’s groundwork led to the birth of maximum likelihood, hypothesis testing, and p-values (heavy lifting from Fisher), which stand as absolutes in modern science. <BR>
 It’s easy to get lost in the minutiae while studying statistics, but this book and Pearson appeal to re-evaluating concepts, equations, and formulas from a grander perspective. A once contrarian philosophy that our world is random rather than determined has led to the fruition of a scientific revolution and continued imprint in modern discovery. 
-
-
+</DL>
+<DL>
 <DT>Convenience Store Woman (Murata)
 <DD><BLOCKQUOTE><I>Until now, we’d always had meaningful worker-manager discussions: “It’s been hot lately, so the sales of chocolate desserts are down,” or “There’s a new block of flats down the road, so we’ve been getting more customers in the evening”… Now, however, it felt like he’d downgraded me from store worker to female of the human species.</I></BLOCKQUOTE>This passage from Murata was perfect - hilarious, sad, and a bit sobering. Murata’s efficacy lies in allowing the reader to simultaneously relate and collide with Miss Furukawa’s psyche. We cheer for her, are confused by her, laugh at her, and laugh with her. I grappled with all of these thoughts and then some when reading this passage and the rest of Murata’s novel.
-
-
+</DL>
+<DL>
 <DT>Embracing Defeat (Dower)
 <DD>The process of the post-WWII democratization, demilitarization, and liberation of the collective Japanese mind from a power-hungry empire was, to say the least, complex. Inevitably, the undertaking of such a sweeping process comes with its fair share of consequences. Dower’s succinctly illuminates the lasting effects of these consequences:<BR>
 <BLOCKQUOTE><I>“For all their talk of democracy, the conquerors worked hard to engineer consensus; and on many critical issues, they made clear that the better part of political wisdom was silence and conformism. So well did they succeed in reinforcing this consciousness that after they left, and time passed, many non-Japanese including Americans came to regard such attitudes as peculiarly Japanese.”</I></BLOCKQUOTE>What an insightful passage. While it is true that the conception that Japanese were silent and conformist pre-occupation, the result of occupation-led censorship and control perpetuated and more importantly made these traits truly tangible – especially to the rest of the world. Perhaps most mind racking is the stark contrast of the legacies left behind of these actions. The conquerors brought democracy and order swiftly without making too much noise. Yet they left behind some of today’s most quintessential traits of the Japanese.
-
 </DL><BR>
-
-
 
 ### My favorite albums of 2020  <sub><sup>(written on 12/19/2020)</sup></sub>  
 - Circles (Mac Miller)  
