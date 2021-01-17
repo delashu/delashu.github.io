@@ -92,10 +92,10 @@ It’s easy to get lost in the minutiae while studying statistics, but this book
 </ul>
 
 ### My favorite albums of 2020  <sub><sup>(written on 12/19/2020)</sup></sub>
-<DL> 
-<DT>Circles (Mac Miller) 
-<DT>Un Canto Por México, Vol. 1 (Natalia LaFourcade) 
-<DT>The New Abnormal (The Strokes)  
-</DL>   
+<ul> 
+  <li>Circles (Mac Miller) </li>
+  <li>Un Canto Por México, Vol. 1 (Natalia LaFourcade) </li>
+  <li>The New Abnormal (The Strokes) </li>
+</ul>   
   
 *Notable Mentions*: RTJ4 (Run the Jewels), Future Nostalgia (Dua Lipa)  
