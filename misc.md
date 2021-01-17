@@ -73,7 +73,7 @@ A list of books I have recently read.
 | 1984 | George Orwell   | NA         | 09/2018           |
 | Happy City            | Charles Montgomery | NA         | 09/2018           |
 
-### Best books I read in 2020  <sub><sup>(written on 12/20/2020)</sup></sub>
+<h2>  Best books I read in 2020  <sub><sup>(written on 12/20/2020)</sup></sub></h2> 
 <ul style="list-style-type:none;">
 <li><b>The Lady Tasting Tea (Salsburg)</b><BR>
 The more I journey into the study of statistics, the more I see it as a philosophical science. Perhaps the rigorous endeavor of any subject results in using the subject’s laws to make sense of our reality. Even so, I thought I would write a few of the lasting impressions that this book and statistics as a whole – a science typically not seen in a philosophical light - leaves on my worldview. <BR>
