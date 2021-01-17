@@ -74,7 +74,7 @@ A list of books I have recently read.
 | Happy City            | Charles Montgomery | NA         | 09/2018           |
 
 ### Best books I read in 2020  <sub><sup>(written on 12/20/2020)</sup></sub>
-<ul>
+<ul style="list-style-type:none;">
 <li><b>The Lady Tasting Tea (Salsburg)</b><BR>
 The more I journey into the study of statistics, the more I see it as a philosophical science. Perhaps the rigorous endeavor of any subject results in using the subject’s laws to make sense of our reality. Even so, I thought I would write a few of the lasting impressions that this book and statistics as a whole – a science typically not seen in a philosophical light - leaves on my worldview. <BR>
 Statistics attempts to make sense of reality by assigning quantities such as proportions, risks, and probabilities to events. Underlying this process is how these events are generated. In statistical jargon, this is often termed the “data generating mechanism”. Salsburg provides a historical account of the science community’s evolving ideas on how the events in our world are generated. Two camps of thought are brought to light in this regard: The Deterministic and Random camps. <BR>
