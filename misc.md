@@ -91,7 +91,7 @@ It’s easy to get lost in the minutiae while studying statistics, but this book
 <BLOCKQUOTE><I>“For all their talk of democracy, the conquerors worked hard to engineer consensus; and on many critical issues, they made clear that the better part of political wisdom was silence and conformism. So well did they succeed in reinforcing this consciousness that after they left, and time passed, many non-Japanese including Americans came to regard such attitudes as peculiarly Japanese.”</I></BLOCKQUOTE>What an insightful passage. While it is true that the conception that Japanese were silent and conformist pre-occupation, the result of occupation-led censorship and control perpetuated and more importantly made these traits truly tangible – especially to the rest of the world. Perhaps most mind racking is the stark contrast of the legacies left behind of these actions. The conquerors brought democracy and order swiftly without making too much noise. Yet they left behind some of today’s most quintessential traits of the Japanese.</li>
 </ul>
 
-### My favorite albums of 2020  <sub><sup>(written on 12/19/2020)</sup></sub>
+<h2>  My favorite albums of 2020  <sub><sup>(written on 12/19/2020)</sup></sub></h2> 
 <ul> 
   <li>Circles (Mac Miller) </li>
   <li>Un Canto Por México, Vol. 1 (Natalia LaFourcade) </li>
