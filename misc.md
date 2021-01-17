@@ -74,7 +74,7 @@ A list of books I have recently read.
 | Happy City            | Charles Montgomery | NA         | 09/2018           |
 
 ### Best books I read in 2020  <sub><sup>(written on 12/20/2020)</sup></sub>
-<DL>
+<dl>
 <DT>The Lady Tasting Tea (Salsburg)
 <DD>The more I journey into the study of statistics, the more I see it as a philosophical science. Perhaps the rigorous endeavor of any subject results in using the subject’s laws to make sense of our reality. Even so, I thought I would write a few of the lasting impressions that this book and statistics as a whole – a science typically not seen in a philosophical light - leaves on my worldview. <BR>
 Statistics attempts to make sense of reality by assigning quantities such as proportions, risks, and probabilities to events. Underlying this process is how these events are generated. In statistical jargon, this is often termed the “data generating mechanism”. Salsburg provides a historical account of the science community’s evolving ideas on how the events in our world are generated. Two camps of thought are brought to light in this regard: The Deterministic and Random camps. <BR>
@@ -89,7 +89,7 @@ It’s easy to get lost in the minutiae while studying statistics, but this book
 <DT>Embracing Defeat (Dower)
 <DD>The process of the post-WWII democratization, demilitarization, and liberation of the collective Japanese mind from a power-hungry empire was, to say the least, complex. Inevitably, the undertaking of such a sweeping process comes with its fair share of consequences. Dower’s succinctly illuminates the lasting effects of these consequences:<BR>
 <BLOCKQUOTE><I>“For all their talk of democracy, the conquerors worked hard to engineer consensus; and on many critical issues, they made clear that the better part of political wisdom was silence and conformism. So well did they succeed in reinforcing this consciousness that after they left, and time passed, many non-Japanese including Americans came to regard such attitudes as peculiarly Japanese.”</I></BLOCKQUOTE>What an insightful passage. While it is true that the conception that Japanese were silent and conformist pre-occupation, the result of occupation-led censorship and control perpetuated and more importantly made these traits truly tangible – especially to the rest of the world. Perhaps most mind racking is the stark contrast of the legacies left behind of these actions. The conquerors brought democracy and order swiftly without making too much noise. Yet they left behind some of today’s most quintessential traits of the Japanese.
-</DL>
+</dl>
 
 ### My favorite albums of 2020  <sub><sup>(written on 12/19/2020)</sup></sub>
 <DL> 
