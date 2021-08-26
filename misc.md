@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Misc.
-nav_order: 4
+nav_order: 5
 ---
 
 ### a'R't
@@ -19,6 +19,9 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| An Artist of the Floating World |  Kazuo Ishiguro   | 08/2021         | 08/2021           |
+| Cork Dork |  Bianca Bosker   | 07/2021         | In Progress           |
+| God of Small Things |  Arundhati Roy   | 05/2021         | 07/2021           |
 | ハリー・ポッターと賢者の石 |  J・K・ローリング、松岡 佑子   | 01/2021         | In Progress           |
 | The Shadow of the Wind |  Carlos Ruiz Zafón   | 01/2021         | In Progress           |
 | Language and Problems of Knowledge |  Noam Chomsky   | 01/2021         | In Progress           |
