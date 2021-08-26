@@ -20,11 +20,12 @@ A list of books I have recently read.
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
 | An Artist of the Floating World |  Kazuo Ishiguro   | 08/2021         | 08/2021           |
+| The Alchemist |  Paul Coelho   | 07/2021         | 07/2021           |
 | Cork Dork |  Bianca Bosker   | 07/2021         | In Progress           |
 | God of Small Things |  Arundhati Roy   | 05/2021         | 07/2021           |
 | ハリー・ポッターと賢者の石 |  J・K・ローリング、松岡 佑子   | 01/2021         | In Progress           |
 | The Shadow of the Wind |  Carlos Ruiz Zafón   | 01/2021         | In Progress           |
-| Language and Problems of Knowledge |  Noam Chomsky   | 01/2021         | In Progress           |
+| Language and Problems of Knowledge |  Noam Chomsky   | 01/2021         | 07/2021           |
 | Fear and Trembling |  Amélie Nothomb   | 12/2020         | 12/2020           |
 | Embracing Defeat |  James Dower   | 05/2020         | 12/2020           |
 | Kitchen |  Banana Yoshimoto   | 12/2020         | 12/2020           |
