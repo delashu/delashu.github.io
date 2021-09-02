@@ -163,7 +163,11 @@ def permuted_multiples(my_input=2):
     """
     This function solves the Permuted Multiples problem. 
     Input: default of integer value of 2
+    Behavior: use the user input value as the base integer value. Multiply this base input by 1,2,3,4,5, and 6 sequentially. 
+    If at any step, the number of integers or the unique values in the product is NOT the same, then stop the multiplications, and start over with user integer+1. 
+    Once the product of the input and 1,2,3,4,5, and 6 have the same numbers and unique values, capture the integer. 
     Output: The smallest integer,x in which 2x, 3x, 4x, 5x, and 6x, contain the same digits. 
+    
     """
     #assign the user input value to a new variable
     itr=my_input
@@ -247,6 +251,9 @@ def ssd(my_num):
     """
     This function solves the Sum Square Difference Problem. 
     Inputs: Integer 
+    Behavior: Sums of the squares of the first X (user input) natural numbers. 
+    Then squares the sum of  the first X (user input) natural numbers. 
+    Finally take the difference between the two sums.
     Output: Integer solution to the Sum Square Difference problem.    
     """
     #create a list of natural numbers with user input    
