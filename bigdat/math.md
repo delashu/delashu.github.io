@@ -9,7 +9,7 @@ nav_order: 1
 I provide three solutions to 
 questions from [Project Euler](https://projecteuler.net) (math problems that require computing and finesse). 
 I aim to discuss my workflow, issues faced, and proposed solution to each problem. All computing is done in Python 3.7.8.    
-
+Note that this is a blog post that provides steps of each solution. **To access the jupyter notebook where the solutions were processed and completed, visit [here.](https://github.com/delashu/pysolve_notebooks/blob/main/math.ipynb)**
 
 ### 1. Prime Power Triples
 [This question](https://projecteuler.net/problem=87) states, *"How many numbers below fifty million can be expressed as the sum of a prime square, prime cube, and prime fourth power?"*   
