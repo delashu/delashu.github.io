@@ -9,7 +9,7 @@ nav_order: 2
 # Number Theory & a Google Recruitment Puzzle
 
 The objective of this puzzle is to find the first 10-digit prime in the decimal expansion of 17π. My proposed solution partitions the puzzle into several sub-problems. Each sub-problem is solved with its own function in python. All computing is done in Python 3.7.8.    
-Note that this is a blog post that guides the reader through my workflow, ideas, and functions to each solution. **To access the jupyter notebook where the solutions were processed and completed, visit [here.](https://github.com/delashu/pysolve_notebooks/blob/main/number_theory.ipynb)**  
+Note that this is a blog post that guides the reader through my workflow, ideas, and functions to each solution. **To access the jupyter notebook where the solutions were processed and completed, visit [here.](https://github.com/delashu/pysolve_notebooks/blob/main/num_theory/num_theory.ipynb)**  
 
 
 ### Sub-Problem 1  
@@ -186,9 +186,9 @@ print(digit_prime(pdigits = 120, pmathex = "pi", pmultiplier = 17, pwindow=10))
 ### Unit Testing
 
 Each helper function and the final function has been unit tested.  
-Readers can find the raw .py function files [here](https://github.com/delashu/pysolve_notebooks/blob/main/num_theory/num_theory.py)  and the unit test .py file [here](https://github.com/delashu/pysolve_notebooks/blob/main/num_theory/num_theory_test.py).  
+Readers can find the raw .py function file [here](https://github.com/delashu/pysolve_notebooks/blob/main/num_theory/num_theory.py)  and the unit test .py file [here](https://github.com/delashu/pysolve_notebooks/blob/main/num_theory/num_theory_test.py).  
 
-Below is a suite of unit tests for sub function and final function that can be found in the above links. The final unit-test checks if the function correctly finds the first 10-digit prime in the expansion e (*answer*: 7427466391) :  
+Below is a suite of unit tests for each sub function and the final function that can be found in the above links. The final unit-test checks if the function correctly finds the first 10-digit prime in the expansion e (*answer*: 7427466391) :  
 
 ```python 
 #import the num_theory functions from num_theory.py
