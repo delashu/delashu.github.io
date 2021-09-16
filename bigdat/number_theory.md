@@ -15,7 +15,7 @@ Note that this is a blog post that guides the reader through my workflow, ideas,
 ### Sub-Problem 1  
 **Objective**: *Write a function to generate an arbitrarily large expansion of a mathematical expression like π.*  
 I used the [sympy library](https://docs.sympy.org/latest/index.html) to compute mathematical expressions such as π and e.  
-In our problem, we are interested in finding the decimal expansion of 17π. I thus allowed for the user to input a multiplier of expressions such as e and π.  
+In our problem, we are interested in finding the decimal expansion of 17π. I thus allow for the user to input a multiplier (such as 17) to expressions such as e and π.  
 Below is the function:  
 
 ```python
@@ -139,8 +139,8 @@ def sliding(my_string = "8309735", window=3):
 
 ### All Together Now!  
 Now that I have defined three helper functions, I bring each of them together into one function to solve the puzzle.  
-The function first creates a string representation of the decimal expansion of the user specified math equation (ie: 17π) and user specified length.  
-A list of integers, each with a specified window length is then created.  
+The function first creates a string representation of the decimal expansion of the user specified math equation (ie: 17π) and user specified length (10).  
+The string is then used to create a list of integers, each with the user specified window length.  
 Finally, the function iterates through the list of integers and returns the first prime number it finds.  
 
 ```python 
@@ -180,15 +180,18 @@ print(digit_prime(pdigits = 120, pmathex = "pi", pmultiplier = 17, pwindow=10))
 
 <span style="color:red">**My final solution to find the first 10-digit prime in the decimal expansion of 17π is 8649375157**  </span>
 
-  
+</br>  
+</br>  
 
 ### Unit Testing
 
 Each helper function and the final function has been unit tested.  
-Readers can look find the raw .py files used to test the functions here (functions) and here (testing).  
+Readers can look find the raw .py function files [here](https://github.com/delashu/pysolve_notebooks/blob/main/num_theory/num_theory.py)  and the unit test .py file [here](https://github.com/delashu/pysolve_notebooks/blob/main/num_theory/num_theory_test.py).  
 
-Below is a suite of unit tests for sub function and final function:  
+Below is a suite of unit tests for sub function and final function that can be found in the above links. The final unit-test checks if the function correctly finds the first 10-digit prime in the expansion e (*answer*: 7427466391) :  
+
 ```python 
+#import the num_theory functions from num_theory.py
 from num_theory import * 
 import math
 from sympy import pi, E, N
@@ -251,7 +254,7 @@ def test_digit_prime_1():
 ```
 
 
-The unit tests can be run by running the following in the terminal:  
+The unit tests can be run by executing the following in the terminal:  
 
 ```console 
 pytest
