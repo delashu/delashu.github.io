@@ -179,14 +179,14 @@ print(digit_prime(pdigits = 120, pmathex = "pi", pmultiplier = 17, pwindow=10))
 ```
 
 <span style="color:red">**My final solution to find the first 10-digit prime in the decimal expansion of 17π is 8649375157**  </span>
-
-</br>  
-</br>  
+  
+<br />  
+<br />  
 
 ### Unit Testing
 
 Each helper function and the final function has been unit tested.  
-Readers can look find the raw .py function files [here](https://github.com/delashu/pysolve_notebooks/blob/main/num_theory/num_theory.py)  and the unit test .py file [here](https://github.com/delashu/pysolve_notebooks/blob/main/num_theory/num_theory_test.py).  
+Readers can find the raw .py function files [here](https://github.com/delashu/pysolve_notebooks/blob/main/num_theory/num_theory.py)  and the unit test .py file [here](https://github.com/delashu/pysolve_notebooks/blob/main/num_theory/num_theory_test.py).  
 
 Below is a suite of unit tests for sub function and final function that can be found in the above links. The final unit-test checks if the function correctly finds the first 10-digit prime in the expansion e (*answer*: 7427466391) :  
 
@@ -205,34 +205,25 @@ Testing 'expand() function'
 """
 def test_expand_1():
     assert expand(digits = 20, mathex = "pi", multiplier = 1) == "3.1415926535897932385"
-
 def test_expand_2():
-    assert expand(digits = 12, mathex = "pi", multiplier = 17) == "53.4070751110"
-    
+    assert expand(digits = 12, mathex = "pi", multiplier = 17) == "53.4070751110"  
 def test_expand_3():
     assert expand(digits = 25, mathex = "e", multiplier = 1) == "2.718281828459045235360287"
 
-    
-    
 """
 Testing 'is_prime() function'
 """
 
 def test_is_prime_1():
     assert is_prime(user_num = 1) == False
-    
 def test_is_prime_2():
     assert is_prime(user_num = -7) == False
-    
 def test_is_prime_3():
     assert is_prime(user_num = 2.4) == False
-
 def test_is_prime_4():
     assert is_prime(user_num = 4) == False
-
 def test_is_prime_5():
     assert is_prime(user_num = 97) == True
-
     
 """
 Testing 'sliding() function'
@@ -243,14 +234,12 @@ def test_sliding_1():
     
 def test_sliding_2():
     assert sliding(my_string = '69.0131094', window = 3) == [131, 310, 109]
-
     
 """
 Testing 'digit_prime() function'
 """
 def test_digit_prime_1():
     assert digit_prime(pdigits = 120, pmathex = "e", pmultiplier = 1, pwindow=10) == 7427466391
-    
 ```
 
 
