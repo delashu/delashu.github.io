@@ -13,7 +13,7 @@ Note that this is a blog post that guides the reader through my workflow, ideas,
 
 
 ### Sub-Problem 1  
-**Objective**: Write a function to generate an arbitrarily large expansion of a mathematical expression like π.  
+**Objective**: *Write a function to generate an arbitrarily large expansion of a mathematical expression like π.*  
 I used the [sympy library](https://docs.sympy.org/latest/index.html) to compute mathematical expressions such as π and e.  
 In our problem, we are interested in finding the decimal expansion of 17π. I thus allowed for the user to input a multiplier of expressions such as e and π.  
 Below is the function:  
@@ -40,7 +40,7 @@ def expand(digits = 10, mathex = "pi", multiplier = 1):
 
 ### Sub-Problem 2  
 **Objective**: *Write a function to check if a number is prime.*  
-Python, numpy, and other popular python math libraries do not have a built-in function that checks if an integer is a prime number. One ancient algorithm that identifies a prime that can be implemented in python is [The Sieve of Eratosthenes.](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes). The algorithm iteratively finds multiples of integers to an integer upper limit starting with 2. All multiples of 2 starting from 2 to the upper integer limit are marked as **not** prime. Then, all multiples of 3 to the upper limit are marked as **not** prime. The next number that has not yet been marked, 
+Python, numpy, and other popular python math libraries do not have a built-in function that checks if an integer is a prime number. One ancient algorithm that identifies a prime that can be implemented in python is [The Sieve of Eratosthenes.](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) The algorithm iteratively finds multiples of integers to an integer upper limit starting with 2. All multiples of 2 starting from 2 to the upper integer limit are marked as **not** prime. Then, all multiples of 3 to the upper limit are marked as **not** prime. The next number that has not yet been marked, 
 5 is then used. All multiples of 3 to the upper limit are marked as **not** prime. This continues until the integer upper limit is reached.  
 
 ```python
@@ -88,7 +88,7 @@ def is_prime(user_num = 1):
                 return False
         return True
     #if the number input is less than one, 
-    #then we have a prime immediately
+    #then we have a NON prime immediately
     return False
 ```
 
@@ -97,8 +97,8 @@ def is_prime(user_num = 1):
 ### Sub-Problem 3  
 **Objective**: *Write a function to generate sliding windows of a specified width from a long iterable (e.g. a string representation of a number)* 
 
-I wrote a function that takes in a string object, and returns a list of integers. Each sublist within the main list contains a string that has the length of the user-specified window width. The sublist is defined by a sliding window.      
-For example if the user inputs a string of "12345" and a window width of 2, the output will be a list that contains the following sublists:    
+I wrote a function that takes in a string object, and returns a list of integers. Each integer within the list has the length specified by the user's window width.  
+For example if the user inputs a string of "12345" and a window width of 2, the output will be a list that contains the following integers:    
 [12, 23, 34, 45]  
 
 I ensure that integers that start with 0 are removed from the list, as they will not have the specified length of interest.   
@@ -113,8 +113,8 @@ def sliding(my_string = "8309735", window=3):
     will generate sliding windows of that input 
     length from a string representation of a number (iterable)
     
-    OUTPUT: list of lists. 
-    each sublist contains a string of specified sliding window length
+    OUTPUT: list of integers. 
+    each integer is of specified sliding window length
     """
     #intialize main empty list that will hold all sub-lists
     all_list = []
@@ -139,7 +139,9 @@ def sliding(my_string = "8309735", window=3):
 
 ### All Together Now!  
 Now that I have defined three helper functions, I bring each of them together into one function to solve the puzzle.  
-
+The function first creates a string representation of the decimal expansion of the user specified math equation (ie: 17π) and user specified length.  
+A list of integers, each with a specified window length is then created.  
+Finally, the function iterates through the list of integers and returns the first prime number it finds.  
 
 ```python 
 def digit_prime(pdigits = 10, pmathex = "pi", pmultiplier = 1, pwindow=3):
@@ -169,12 +171,94 @@ def digit_prime(pdigits = 10, pmathex = "pi", pmultiplier = 1, pwindow=3):
             return(i)
 ```
 
+  
+I run the final function to solve the puzzle:  
+```python 
+print(digit_prime(pdigits = 120, pmathex = "pi", pmultiplier = 17, pwindow=10))
+#output: 8649375157
+```
 
+<span style="color:red">**My final solution to find the first 10-digit prime in the decimal expansion of 17π is 8649375157**  </span>
+
+  
 
 ### Unit Testing
 
-Prompt:  
-  
-Write unit tests for each of these three functions. You are encouraged, but not required, to try test-driven development.
+Each helper function and the final function has been unit tested.  
+Readers can look find the raw .py files used to test the functions here (functions) and here (testing).  
 
-Now use these helper functions to write the function that you need. Write a unit test for this final function, given that the first 10-digit prime in the expansion e is 7427466391. Finally, solve the given problem.
+Below is a suite of unit tests for sub function and final function:  
+```python 
+from num_theory import * 
+import math
+from sympy import pi, E, N
+
+"""
+this is a python file for unit testing of the python file 'num_theory.py'
+"""
+
+"""
+Testing 'expand() function'
+"""
+def test_expand_1():
+    assert expand(digits = 20, mathex = "pi", multiplier = 1) == "3.1415926535897932385"
+
+def test_expand_2():
+    assert expand(digits = 12, mathex = "pi", multiplier = 17) == "53.4070751110"
+    
+def test_expand_3():
+    assert expand(digits = 25, mathex = "e", multiplier = 1) == "2.718281828459045235360287"
+
+    
+    
+"""
+Testing 'is_prime() function'
+"""
+
+def test_is_prime_1():
+    assert is_prime(user_num = 1) == False
+    
+def test_is_prime_2():
+    assert is_prime(user_num = -7) == False
+    
+def test_is_prime_3():
+    assert is_prime(user_num = 2.4) == False
+
+def test_is_prime_4():
+    assert is_prime(user_num = 4) == False
+
+def test_is_prime_5():
+    assert is_prime(user_num = 97) == True
+
+    
+"""
+Testing 'sliding() function'
+"""
+
+def test_sliding_1():
+    assert sliding(my_string = '200.89420', window = 2) == [89, 94, 42, 20]
+    
+def test_sliding_2():
+    assert sliding(my_string = '69.0131094', window = 3) == [131, 310, 109]
+
+    
+"""
+Testing 'digit_prime() function'
+"""
+def test_digit_prime_1():
+    assert digit_prime(pdigits = 120, pmathex = "e", pmultiplier = 1, pwindow=10) == 7427466391
+    
+```
+
+
+The unit tests can be run by running the following in the terminal:  
+
+```console 
+pytest
+``` 
+
+Running the pytest in the terminal yields the following result: 
+
+```console
+==== 11 passed in 1.96s ====
+```
