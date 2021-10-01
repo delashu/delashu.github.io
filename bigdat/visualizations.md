@@ -48,7 +48,7 @@ I graphed longitudinal death rates in Africa faceted by age groupings. The age g
 During the first pass of this graph, I used the " 'sharey' : False" parameter in seaborn. This gave all plots different y axes. In these plots, it was clear that  Uganda, Nigeria, and the Democratic Republic of Congo were affected most in nearly all age groupings. I then tweaked this parameter to be " 'sharey' : True", meaning all the plots shared the same y axis maximum and minimum.  
 
 
-![Age Plot Two](age_plt_one.png)
+![Age Plot Two](age_plt_two.png)
 
 
 
