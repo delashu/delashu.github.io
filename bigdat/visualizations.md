@@ -20,19 +20,19 @@ I first visualized longitudinal Malaria death rates (Maralia Deaths per 100,000 
 
 ![Map Plot One](deaths_map.PNG)
 
-The interactive/dynamic version of the plot can be found [here.](https://nbviewer.jupyter.org/github/delashu/pysolve_notebooks/blob/878ce7c4b168923989cf177eb3df7c3f4f35a0d5/viz.ipynb) Use the play button to watch the map change with year through 1990 - 2015.  
+The interactive/dynamic version of the plot can be found [here.](https://nbviewer.jupyter.org/github/delashu/pysolve_notebooks/blob/d49054890cfb5e1c40b134accdc204dc54edc779/visualizations/viz.ipynb) Use the play button to watch the map change with year through 1990 - 2015.  
 The plot shows a substantial concentration of high malarial death rates in Africa, particularly in West Africa. 
 
 This plot motivated a more specific look of Malaria in Africa. I subsetted the data to African countries to obtain a more granular view of the problem.  
 
 
 ## Pinpointing Malaria in Africa  
-African countries were isolated from the malarial deaths dataset. I created a barplot where each bar represents each country's death rates. The plot is ordered from least deaths per 100k on the very left to most deaths per 100k on the very right.  Below is a static version of the plot. The interactive/dynamic version of the plot can be found [here.](https://nbviewer.jupyter.org/github/delashu/pysolve_notebooks/blob/878ce7c4b168923989cf177eb3df7c3f4f35a0d5/viz.ipynb)  
+African countries were isolated from the malarial deaths dataset. I created a barplot where each bar represents each country's death rates. The plot is ordered from least deaths per 100k on the very left to most deaths per 100k on the very right.  Below is a static version of the plot. The interactive/dynamic version of the plot can be found [here.](https://nbviewer.jupyter.org/github/delashu/pysolve_notebooks/blob/d49054890cfb5e1c40b134accdc204dc54edc779/visualizations/viz.ipynb)  
 
 
 ![Deaths Plot One](deaths_by_country_one.PNG)
 
-When the play button is clicked, as the years progress, the bars shift to represent the countries with the lowest and highest malarial death rates per 100k from 1990 - 2015. During the early 90's Uganda, Sierrra Leone, Burundi, and Burkina Faso were affected the worst by malarial death rates. Burkina Faso and Sierra Leone continued to struggle through the 2000's and into 2015. Overall malarial death rates decreased from 1990 - 2015 as seen by the drop in bar heights.  
+When the play button is clicked, as the years progress, the bars shift to represent the countries with the lowest and highest malarial death rates per 100k from 1990 - 2016. During the early 90's Uganda, Sierrra Leone, Burundi, and Burkina Faso were affected the worst by malarial death rates. Burkina Faso and Sierra Leone continued to struggle through the 2000's and into 2015. Overall malarial death rates decreased from 1990 - 2015 as seen by the drop in bar heights.  
 
 Now that the visualizations show which countries in Africa are most affected, I was curious which groupings of individuals were most affected by malarial deaths.  
 The death rate dataset stratified by age was one source that would help with this investigation.  
