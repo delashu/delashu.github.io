@@ -16,7 +16,7 @@ The final plot is made with [seaborn](https://seaborn.pydata.org/). I selected s
 All computing is done in Python 3.7.8.  
 
 ## Mapping Malaria  
-I first visualized longitudinal Malaria death rates (Maralia Deaths per 100,000 people) across the globe. The heat map shows which regions of the world are most affected by Malarial deaths by year. Below I show a static version of the plot.  
+I first visualized longitudinal Malaria death rates (Maralia Deaths per 100,000 people) across the globe. The heat map shows which regions of the world are most affected by Malarial deaths by year. Below I show a static version of the plot.   
 
 ![Map Plot One](deaths_map.PNG)
 
