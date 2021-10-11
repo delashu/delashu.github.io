@@ -6,4 +6,4 @@ nav_order: 4
 ---
 
 Example Dashboard  
-![Example Dash](https://github.com/delashu/delashu.github.io/blob/master/_includes/example_2.gif)  
+![Example Dash](https://github.com/delashu/delashu.github.io/blob/master/_includes/example_3.gif)  
