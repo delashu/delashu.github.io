@@ -43,7 +43,13 @@ Once selected, all elements of the dashboard change accordingly. The default is 
 
 The elements of the dashboard can be expanded. The gif below shows the user getting a better look at the line plot and raw data.   
 
-![Example Dash two](dash_two.gif)  
+![Example Dash two](dash_two.gif)   
+
+Below is a print-out of the summary table found at the bottom of page.  Interestingly, there is a precipitous drop in PhD graduates in "Mathematics and Statistics" in 2002 with only 739. In 2017, 1,856 doctoral degrees in "Mathematics and Statistics" were awarded.    
+
+| Mean        | Median            | Max | Min | Range        | Regression Intercept            | Regression Slope |
+|:-------------|:------------------|:-------------|:---------------|:-------------|:------------------|:-------------|
+| 1,255.29 |  1,123   | 1,856         | 739           |1,117 |  -68,900.51   | 35.04         |
 
 
 ### Dashboard Features Part II   
