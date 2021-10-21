@@ -64,7 +64,7 @@ fig.show()
 
 
 
-The heat map shows which regions of the world are most affected by Malarial deaths by year. Below I show a static version of the plot.   
+The heat map shows which regions of the world are most affected by Malarial deaths by year. Below I show a gif of the plot.   
 
 ![Map Plot One](malaria_map.gif)
 
