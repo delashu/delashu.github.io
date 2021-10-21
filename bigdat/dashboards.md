@@ -6,4 +6,4 @@ nav_order: 4
 ---
 
 Dashboard Example     
-![Example Dash](example_1.gif)  
+![Example Dash](dash_one.gif)  
