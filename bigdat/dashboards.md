@@ -77,7 +77,8 @@ Once selected, all elements of the dashboard change accordingly.
 The elements of the dashboard are all interactive. The gif below shows the user scrolling through the bars and expanding the table.   
 ![Example Dash three](dash_four.gif)  
 
-Below is a print out of the table at the bottom of the dashboard:  
+Below is a print out of the table at the bottom of the dashboard:   
+  
 | R&D        | Teaching            | Management or Administration | Professional Services | Other        |
 |:-------------|:------------------|:-------------|:---------------|:-------------|
 | 41.6 |  32.9   | 10.4         | 10.4           |5.1 |  
