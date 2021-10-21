@@ -45,7 +45,7 @@ The elements of the dashboard can be expanded. The gif below shows the user gett
 
 ![Example Dash two](dash_two.gif)   
 
-Below is a print-out of the summary table found at the bottom of page.  Interestingly, there is a precipitous drop in PhD graduates in "Mathematics and Statistics" in 2002 with only 739. In 2017, 1,856 doctoral degrees in "Mathematics and Statistics" were awarded.    
+Below is a print-out of the summary table found at the bottom of page.  Interestingly, there is a precipitous drop in PhD graduates in "Mathematics and Statistics" in 2002 with only 739. Conversely in 2017, 1,856 doctoral degrees in "Mathematics and Statistics" were awarded.    
 
 | Mean        | Median            | Max | Min | Range        | Regression Intercept            | Regression Slope |
 |:-------------|:------------------|:-------------|:---------------|:-------------|:------------------|:-------------|
@@ -76,3 +76,10 @@ Once selected, all elements of the dashboard change accordingly.
 
 The elements of the dashboard are all interactive. The gif below shows the user scrolling through the bars and expanding the table.   
 ![Example Dash three](dash_four.gif)  
+
+Below is a print out of the table at the bottom of the dashboard:  
+| R&D        | Teaching            | Management or Administration | Professional Services | Other        |
+|:-------------|:------------------|:-------------|:---------------|:-------------|
+| 41.6 |  32.9   | 10.4         | 10.4           |5.1 |
+
+Not surprisingly, the majority of "Mathematics and computer science" PhD graduates who find a job enter the R&D sector. Also not surprisingly as shown in the right box plot, must "Mathematics and computer science" PhD graduates land in the "Pacific/Insular" region.  
