@@ -13,7 +13,7 @@ Two
 
 ![Example Dash two](dash_two.gif)  
 
-Three  
+New Three  
 ![Example Dash three](dash_three.gif)  
 
 Four  
