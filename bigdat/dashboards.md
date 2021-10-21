@@ -15,3 +15,6 @@ Two
 
 Three  
 ![Example Dash three](dash_three.gif)  
+
+Four  
+![Example Dash three](dash_four.gif)  
