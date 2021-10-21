@@ -66,7 +66,7 @@ fig.show()
 
 The heat map shows which regions of the world are most affected by Malarial deaths by year. Below I show a static version of the plot.   
 
-![Map Plot One](deaths_map.PNG)
+![Map Plot One](malaria_map.gif)
 
 The interactive/dynamic version of the plot can be found [here.](https://nbviewer.jupyter.org/github/delashu/pysolve_notebooks/blob/d49054890cfb5e1c40b134accdc204dc54edc779/visualizations/viz.ipynb) Use the play button to watch the map change with year through 1990 - 2015.  
 The plot shows a substantial concentration of high malarial death rates in Africa, particularly in West Africa. 
