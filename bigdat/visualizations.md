@@ -104,7 +104,7 @@ fig2.show()
 Below is a static version of the plot. The interactive/dynamic version of the plot can be found [here.](https://nbviewer.jupyter.org/github/delashu/pysolve_notebooks/blob/d49054890cfb5e1c40b134accdc204dc54edc779/visualizations/viz.ipynb)  
 
 
-![Deaths Plot One](deaths_by_country_one.PNG)
+![Deaths Plot One](malaria_barplot.gif)
 
 When the play button is clicked, as the years progress, the bars shift to represent the countries with the lowest and highest malarial death rates per 100k from 1990 - 2016. During the early 90's Uganda, Sierrra Leone, Burundi, and Burkina Faso were affected the worst by malarial death rates. Burkina Faso and Sierra Leone continued to struggle through the 2000's and into 2015. Overall malarial death rates decreased from 1990 - 2015 as seen by the drop in bar heights.  
 
