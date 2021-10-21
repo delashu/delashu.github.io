@@ -7,12 +7,19 @@ nav_order: 4
 
 # Dashboards in Python  
 
-The National Science Foundation collects and houses various information on doctoral degree recipients. This data includes demographic variables, education history, and post-graduate plans. The repository of the data can be found [here](https://ncses.nsf.gov/pubs/nsf19301/data).  
+The National Science Foundation collects and houses various information on doctoral degree recipients. This data includes numbers of degrees awarded, degree types, education history, and post-graduate plans. The repository of the data can be found [here](https://ncses.nsf.gov/pubs/nsf19301/data).  
 
-The aim of this project is to extract, aggregate, visualize, and analyze this data in a dashboard. Python has various extensions and libraries that facilitate the creation of dashboards. This project uses [streamlit](https://streamlit.io/).  
+The aim of this project is to extract, aggregate, visualize, and analyze this data in a dashboard. Python has various extensions and libraries that facilitate the creation of dashboards. This project uses [streamlit](https://streamlit.io/) to create the dashboard in python.   
 
 **Note for developers**:  
-The following dashboard should be run on your own machine using an IDE such as [VSCode](https://code.visualstudio.com/). I highly recommend and encourage the use of a [virtual environment](https://code.visualstudio.com/docs/python/environments) to set-up and build your dashboard.  
+The following dashboard should be run on your own machine using an IDE such as [VSCode](https://code.visualstudio.com/). I highly recommend and encourage the use of a [virtual environment](https://code.visualstudio.com/docs/python/environments) to set-up dashboards.  
+The py file that contains the code to build the streamlit dashboard is found [here](https://github.com/delashu/pysolve_notebooks/blob/main/dashboard/phd_dash.py).  
+The code can be downloaded onto any machine.  
+To run the app, make sure to name your py file, *phd_dash.py* and run the below line in your terminal within your virtual environment:  
+```
+streamlit run phd_dash.py
+```
+
 
 ### Dashboard Features Part I   
 The NSF has collected the number of doctoral degrees awarded from 1987 - 2017. The dashboard visualizes this longitudinal trend with a line plot.  
@@ -54,6 +61,12 @@ Below is a print-out of the summary table found at the bottom of page.  Interest
 
 ### Dashboard Features Part II   
 The second portion of the dashboard provides visualizations and analytics of post-graduate plans and landing locations of PhD graduates in 2017.  
+This portion of the dashboard has three main parts:  
+1. Barplot of post-grad plans    
+2. Barplot of landing locations in the US     
+3. Sector breakdown (summary statistics) of those who found and chose jobs    
+
+
 Two barplots and one table are shown. The left barplot visualizes the post-graduate plans for PhD graduates. Each bar represents the number of graduates who plan to continue study ("PostGrad Study"), have found a job ("Employment"), are looking for the next opportunity ("Seeking"), and "Other".  
 The right barplot shows the landing locations for PhD graduates for those who plan to remain in the US. Note that this barplot represents a percentage of the PhD graduates who will reside in "New England", "Middle Atlantic", "East North Central", "West North Central", "South Atlantic", "East South Central", "West South Central", "Mountain", or "Pacific/Insular" regions.  
 
@@ -84,4 +97,4 @@ Below is a print out of the table at the bottom of the dashboard:
 | 41.6 |  32.9   | 10.4         | 10.4           |5.1 |  
   
 
-Not surprisingly, the majority of "Mathematics and computer science" PhD graduates who find a job enter the R&D sector. Also not surprisingly as shown in the right box plot, must "Mathematics and computer science" PhD graduates land in the "Pacific/Insular" region.  
+Not surprisingly, the majority of "Mathematics and computer science" PhD graduates who find a job enter the R&D sector. Also not surprisingly as shown in the right box plot, most "Mathematics and computer science" PhD graduates land in the "Pacific/Insular" region.  
