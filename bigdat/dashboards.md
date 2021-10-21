@@ -97,4 +97,4 @@ Below is a print out of the table at the bottom of the dashboard:
 | 41.6 |  32.9   | 10.4         | 10.4           |5.1 |  
   
 
-Not surprisingly, the majority of "Mathematics and computer science" PhD graduates who find a job enter the R&D sector. Also not surprisingly as shown in the right box plot, most "Mathematics and computer science" PhD graduates land in the "Pacific/Insular" region.  
+Not surprisingly, the majority of "Mathematics and computer science" PhD graduates who find a job enter the R&D sector. Also unsurprisingly as shown in the right box plot, most "Mathematics and computer science" PhD graduates land in the "Pacific/Insular" region.  
