@@ -80,6 +80,7 @@ The elements of the dashboard are all interactive. The gif below shows the user 
 Below is a print out of the table at the bottom of the dashboard:  
 | R&D        | Teaching            | Management or Administration | Professional Services | Other        |
 |:-------------|:------------------|:-------------|:---------------|:-------------|
-| 41.6 |  32.9   | 10.4         | 10.4           |5.1 |
+| 41.6 |  32.9   | 10.4         | 10.4           |5.1 |  
+  
 
 Not surprisingly, the majority of "Mathematics and computer science" PhD graduates who find a job enter the R&D sector. Also not surprisingly as shown in the right box plot, must "Mathematics and computer science" PhD graduates land in the "Pacific/Insular" region.  
