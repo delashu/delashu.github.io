@@ -52,7 +52,7 @@ The elements of the dashboard can be expanded. The gif below shows the user gett
 
 ![Example Dash two](dash_two.gif)   
 
-Below is a print-out of the summary table found at the bottom of page.  Interestingly, there is a precipitous drop in PhD graduates in "Mathematics and Statistics" in 2002 with only 739. Conversely in 2017, 1,856 doctoral degrees in "Mathematics and Statistics" were awarded.    
+Below is a print-out of the summary table found at the bottom of page.  Interestingly, there is a precipitous drop in PhD graduates in "Mathematics and Statistics" in 2002 with only 739. Conversely 1,856 doctoral degrees in "Mathematics and Statistics" were awarded in 2017.    
 
 | Mean        | Median            | Max | Min | Range        | Regression Intercept            | Regression Slope |
 |:-------------|:------------------|:-------------|:---------------|:-------------|:------------------|:-------------|
