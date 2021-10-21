@@ -29,7 +29,10 @@ The table at the bottom outputs summary statistics of the plot such as the mean,
 
 The dashboard provides a blurb on the data and its capabilities:  
 ```
-Select a Specific Area of study to analyze using the first click-down menu on the left. Longitudinal plots, tables, and summaries of number of doctorates awarded from 1987 - 2017 are shown. Blue points and lines on the longitudinal plot are the true number of doctorates awarded from 1987 to 2017. The red line is the OLS best fit line.
+Select a Specific Area of study to analyze using the first click-down menu on the left. 
+Longitudinal plots, tables, and summaries of number of doctorates awarded from 1987 - 2017 are shown.
+ Blue points and lines on the longitudinal plot are the true number of doctorates awarded from 1987 to 2017. 
+ The red line is the OLS best fit line.
 ```
 
 
@@ -54,7 +57,9 @@ Primary Activity can be categorized as "R&D", "Teaching", "Management or Adminis
 
 The dashboard provides a blurb on the post-grad plan data and its capabilities:  
 ```
-Select a General Area of study to analyze using the second click-down menu on the left. Two barplots are rendered based on your input that shows post-graduate plans and landing locations for the year of 2017.
+Select a General Area of study to analyze using the second click-down menu on the left.
+ Two barplots are rendered based on your input that shows post-graduate plans and 
+ landing locations for the year of 2017.
 ```
 
 The user can select a "General Area of Study" using the second drop-down menu to visualize post-grad plans by a general area of study.  
