@@ -52,7 +52,7 @@ The elements of the dashboard can be expanded. The gif below shows the user gett
 
 ![Example Dash two](dash_two.gif)   
 
-Below is a print-out of the summary table found at the bottom of page.  Interestingly, there is a precipitous drop in PhD graduates in "Mathematics and Statistics" in 2002 with only 739. Conversely 1,856 doctoral degrees in "Mathematics and Statistics" were awarded in 2017.    
+Below is a print-out of the summary table found at the bottom of the page.  Interestingly, there is a precipitous drop in PhD graduates in "Mathematics and Statistics" in 2002 with only 739. Conversely 1,856 doctoral degrees in "Mathematics and Statistics" were awarded in 2017.    
 
 | Mean        | Median            | Max | Min | Range        | Regression Intercept            | Regression Slope |
 |:-------------|:------------------|:-------------|:---------------|:-------------|:------------------|:-------------|
@@ -64,17 +64,17 @@ The second portion of the dashboard provides visualizations and analytics of pos
 This portion of the dashboard has three main parts:  
 1. Barplot of post-grad plans    
 2. Barplot of landing locations in the US     
-3. Sector breakdown (summary statistics) of those who found and chose jobs    
+3. Sector breakdown (summary statistics) of those decided to pursue employment      
 
 
 Two barplots and one table are shown. The left barplot visualizes the post-graduate plans for PhD graduates. Each bar represents the number of graduates who plan to continue study ("PostGrad Study"), have found a job ("Employment"), are looking for the next opportunity ("Seeking"), and "Other".  
 The right barplot shows the landing locations for PhD graduates for those who plan to remain in the US. Note that this barplot represents a percentage of the PhD graduates who will reside in "New England", "Middle Atlantic", "East North Central", "West North Central", "South Atlantic", "East South Central", "West South Central", "Mountain", or "Pacific/Insular" regions.  
 
-The bottom table shows the percentage breakdown of Primary Activity of Employment among those graduates who chose found employment.  
+The bottom table shows the percentage breakdown of Primary Activity of Employment among those graduates who pursued employment.  
 Primary Activity can be categorized as "R&D", "Teaching", "Management or Administration", "Professional services", or "Other". 
 
 
-The dashboard provides a blurb on the post-grad plan data and its capabilities:  
+The dashboard provides the below blurb on the post-grad plan data and how to interact with the dashboard:    
 ```
 Select a General Area of study to analyze using the second click-down menu on the left.
  Two barplots are rendered based on your input that shows post-graduate plans and 
