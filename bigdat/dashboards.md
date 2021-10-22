@@ -11,6 +11,12 @@ The National Science Foundation collects and houses various information on docto
 
 The aim of this project is to extract, aggregate, visualize, and analyze this data in a dashboard. Python has various extensions and libraries that facilitate the creation of dashboards. This project uses [streamlit](https://streamlit.io/) to create the dashboard in python.   
 
+
+Click on the streamlit badge below or [here](https://share.streamlit.io/delashu/pysolve_notebooks/main/dashboard/phd_dash.py) to open the dashboard.  
+
+[![my streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/delashu/pysolve_notebooks/main/dashboard/phd_dash.py)  
+  
+
 **Note for developers**:  
 The following dashboard should be run on your own machine using an IDE such as [VSCode](https://code.visualstudio.com/). I highly recommend and encourage the use of a [virtual environment](https://code.visualstudio.com/docs/python/environments) to set-up dashboards.  
 The py file that contains the code to build the streamlit dashboard is found [here](https://github.com/delashu/pysolve_notebooks/blob/main/dashboard/phd_dash.py).  
