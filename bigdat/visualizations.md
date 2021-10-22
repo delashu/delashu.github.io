@@ -64,7 +64,7 @@ fig.show()
 
 
 
-The heat map shows which regions of the world are most affected by Malarial deaths by year. Below I show a gif of the plot.   
+The heat map shows which regions of the world are most affected by Malarial deaths by year. Below is a gif of the plot. While the plot changes color, the user can hover over countries of interest to show Deaths per 100k. The user can also drag the slider to visualize a specific year.       
 
 ![Map Plot One](malaria_map.gif)
 
@@ -101,7 +101,7 @@ fig2.show()
 
 
 
-Below is a gif of the plot. The interactive/dynamic version of the plot can be found [here.](https://nbviewer.jupyter.org/github/delashu/pysolve_notebooks/blob/d49054890cfb5e1c40b134accdc204dc54edc779/visualizations/viz.ipynb)  
+Below is a gif of the plot. The user can hover over countries of interest while the plot changes. The user can also drag the slider on the bottom to visualize a specific year. The interactive/dynamic version of the plot can be found [here.](https://nbviewer.jupyter.org/github/delashu/pysolve_notebooks/blob/d49054890cfb5e1c40b134accdc204dc54edc779/visualizations/viz.ipynb)  
 
 
 ![Deaths Plot One](malaria_barplot.gif)
