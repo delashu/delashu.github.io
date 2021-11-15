@@ -12,7 +12,7 @@ The objectives of this project are two fold:
 2. Explain predictions made by the model using [SHapley Additive exPlanations](https://github.com/slundberg/shap).   
 
 Computing is done in  Python 3.7.8. I use tensorflow and keras to create the deep learning model.  
-The jupyter notebook used to create the model and output the SHAP values is found [here](https://github.com/delashu/pysolve_notebooks/blob/main/deep_learning/NN.py).   
+The jupyter notebook used to create the model and output the SHAP values is found [here](https://github.com/delashu/pysolve_notebooks/blob/main/deep_learning/NN.ipynb).   
 
 ### BUGS! 
 The training image set can be found [here](https://www.dropbox.com/s/fn73sj2e6c9rhf6/insects.zip?dl=0&file_subpath=%2Finsects%2Ftrain). The test image set can be found [here](https://www.dropbox.com/s/fn73sj2e6c9rhf6/insects.zip?dl=0&file_subpath=%2Finsects%2Ftest).   
