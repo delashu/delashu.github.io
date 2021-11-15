@@ -269,7 +269,7 @@ callbacks = [earlystop, learning_rate_reduction]
 ```   
 
 
-With the model parameters now set, I train the model using 10 epochs. I tried fitting the model on various epochs with the training data, but found that 10 consistently gave a strong accuracy without the model running for an excessively long time. Each model run took approximately 8 minutes to fit.        
+With the model parameters now set, I train the model using 10 epochs. I tried fitting the model on various epochs with the training data, but found that 10 consistently gave a strong accuracy without the model running for an excessively long time. My final model took approximately 8 minutes to fit.        
 ```python 
 #train the model:
 from keras.callbacks import EarlyStopping, ModelCheckpoint
@@ -352,7 +352,7 @@ The values are then plotted:
 ```python 
 shap_img = shap.image_plot(sv, test_flow[0][0], show = False)
 ```
-The below image is output:   
+The below image is output. The shapley values are found along the x axis. The values are colored such that the colors attribute distinct parts of the image to classify each bug type:     
 ![shap plot](shap.png)
 
- The shapley values are found along the x axis. The values are colored such that the colors attribute distinct parts of the image to classify each bug type.   
+ 
