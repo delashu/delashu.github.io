@@ -19,9 +19,9 @@ The training image set can be found [here](https://www.dropbox.com/s/fn73sj2e6c9
 
 Below are examples images of the three categories of bugs the model attempts to classify. From left to right, the images show a beetle, a cockroach, and a dragonfly.    
 <p float="left">
-  <img src="beetle.jpeg" width="170" />
-  <img src="cockroach.jpeg" width="170" /> 
-  <img src="dragonfly.jpeg" width="170" />
+  <img src="beetle.jpeg" width="220" />
+  <img src="cockroach.jpeg" width="220" /> 
+  <img src="dragonfly.jpeg" width="220" />
 </p>  
 
 ## Objective 1   
