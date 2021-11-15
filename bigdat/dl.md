@@ -327,7 +327,7 @@ The test accuracy drops to **91.7%**. The model is still generalizable to new im
 
 We can also visualize model performance by plotting the loss and accuracy by epochs (10). In general, as epochs increase, loss decreases and accuracy increases.  
 
-![nn evalplot](nn_eval.png)  
+![nn evalplot](nn_eval.PNG)  
   
 ## Objective 2  
 The neural net model predictions on the test set can be explained by SHapley Additive exPlanations. 
