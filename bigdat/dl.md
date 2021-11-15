@@ -348,11 +348,11 @@ The explainer is then used to output the SHAP values.
 sv = explainer.shap_values(test_flow[0][0]);
 ```
 
-The values are then plotted to visualize how the shapley values attributes certain parts of the image to classify the bugs:   
+The values are then plotted:   
 ```python 
 shap_img = shap.image_plot(sv, test_flow[0][0], show = False)
 ```
 The below image is output:   
 ![shap plot](shap.png)
 
-Draw inference from the plot.  
+ The shapley values are found along the x axis. The values are colored such that the colors attribute distinct parts of the image to classify each bug type.   
