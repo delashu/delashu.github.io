@@ -6,8 +6,8 @@ nav_order: 6
 ---
 
 # Table of Contents
-1. [Example One](#example)
-2. [Example Two](#example2)
+1. [Example One](#example-one)
+2. [Example Two](#example-two)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-example)
 
