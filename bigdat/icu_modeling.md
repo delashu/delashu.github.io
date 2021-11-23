@@ -42,6 +42,23 @@ The below table shows the differences in data sizes between the demo data and th
 Due to the size differences between the demo table and the full data, we began our data downloading, pipeline building, exploratory analysis, and prelimiary model fitting on the demo data. We then utilized GoogleBigQuery, GoogleCloud, and SQL databases to download, store, and use the full data. This allowed the group to create pipelines with the demo data and then migrate the pipeline to the full data.  
 
 ## Feature Engineering <a name="fe"></a>        
+The *ICU Stays* data table acts as the base dataframe for the model. Each row represents an ICU stay. The *Admissions*, *Prescriptions*, and *Procedures* data tables are then used to append to the ICU Stays data.  
+The Admissions table 
+
+The *Prescriptions* demo table was first used to find the top twenty drugs administered. The list of top twenty drugs were then used as columns for the analytic dataset. The below code creates the static list and pickles it for later use.  
+```python 
+mycounts = drugdf.groupby(['subject_id', 'icustay_id', 'formulary_drug_cd']).size().reset_index(name='counts')
+mycounts_long = mycounts.pivot(index = ['subject_id','icustay_id'], 
+                               columns = 'formulary_drug_cd', values = 'counts').reset_index()
+                               with open("../../crosstables/prescription_list.txt", "wb") as dl: 
+    pickle.dump(prescription_list, dl)
+```
+
+In a similar fashion, the *Procedures* demo table was used to find the top twenty drugs administered.  
+
+
+what are they linked by?  
+
 Columns used and columns created  
 list columns created from each table  
 dtypes and counts  
