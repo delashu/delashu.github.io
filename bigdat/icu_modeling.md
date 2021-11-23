@@ -12,13 +12,13 @@ The Intensive Care Unit (ICU) is a specialized treament department within hospit
 This project aims to build upon previous literature to 1) *develop an algorithm* that accurately provides risk of death during an ICU visit, and 2) *deploys the algorithm* via a dashboard for healthcare specialists that outputs probability of death during an ICU stay. This project uses the **Medical Information Mart for Intensive Care** ([MIMIC](https://mimic.mit.edu/)) as its data source for analysis and modeling.  
 Workflow is organized into four parts: 1) Data Extraction, 2) Feature Engineering, 3) Model Development, and 4) Model/Dashboard Deployment.   
 
-### Table of Contents
-1. [Data Extraction](#Data-Extraction)
-2. [Feature Engineering](#Feature-Engineering)
-3. [Model Development](#Model-Development)
-4. [Model/Dashboard Deployment](#Model-&-Dashboard-Deployment )
+## Table of Contents
+1. [Data Extraction](#de)
+2. [Feature Engineering](#fe)
+3. [Model Development](#md)
+4. [Model/Dashboard Deployment](#dash)
 
-## Data Extraction    
+## Data Extraction <a name="de"></a>     
 All group members first requested permission to the full [MIMIC III](https://mimic.mit.edu/) dataset. We also downloaded and utilized the [demo data](https://physionet.org/content/mimiciii-demo/1.4/) as a proof-of-concept for the project pipeline.  
 This analyses utilizes and integrates four datasets to model ICU deaths. These are:  
 1. [ICU Stays](https://physionet.org/content/mimiciii-demo/1.4/ICUSTAYS.csv)   
@@ -41,7 +41,7 @@ The below table shows the differences in data sizes between the demo data and th
       
 Due to the size differences between the demo table and the full data, we began our data downloading, pipeline building, exploratory analysis, and prelimiary model fitting on the demo data. We then utilized GoogleBigQuery, GoogleCloud, and SQL databases to download, store, and use the full data. This allowed the group to create pipelines with the demo data and then migrate the pipeline to the full data.  
 
-## Feature Engineering    
+## Feature Engineering <a name="fe"></a>        
 Columns used and columns created  
 list columns created from each table  
 dtypes and counts  
@@ -49,10 +49,10 @@ merges performed
 create final analytic dataset with the demo data    
 Do the same thing with the full data using Google big query, etc.  
 
-## Model Development  
+## Model Development <a name="md"></a>      
 Dummy model, other models, output metrics, output plots, etc.  
 
-## Model & Dashboard Deployment  
+## Model & Dashboard Deployment <a name="dash"></a>       
 
   
 Streamlit and end user capabilities.  
