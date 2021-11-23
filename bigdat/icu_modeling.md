@@ -31,15 +31,16 @@ Provides prescription type administered, prescription name, and prescription dos
 Provides procedural information for patients. Procedural groupings such as "Invasive Lines", "General Procedures", "Ventilation", and "Imaging" are used to make counts of procedures for each patient during their ICU stay.   
 
 The below table shows the differences in data sizes between the demo data and the full data.   
+  
 <center>   
   
-| Table Name      | Demo Table | Full Data |
+| Table Name      | Demo Table      | Full Data      |
 | ----------- | ----------- | ----------- |
 | ICU Stays      | 13.2 KB       | 1.9MB       |
 | Admissions   | 26.2 KB        | 2.4 MB       |
 | Prescriptions      | 1.6 MB       | 98.7 MB       |
-| Procedures   | 131.1 KB        | 7.5 MB       |
-  
+| Procedures   | 131.1 KB        | 7.5 MB       |  
+    
 </center>   
   
 Due to the size differences between the demo table and the full data, we began our data downloading, pipeline building, exploratory analysis, and prelimiary model fitting on the demo data. We then utilized GoogleBigQuery, GoogleCloud, and SQL databases to download, store, and use the full data. This allowed the group to create pipelines with the demo data and then migrate the pipeline to the full data.  
