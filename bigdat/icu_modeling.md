@@ -165,7 +165,9 @@ The final model yielded a test accuracy of **90.4%**
 
 The model trained on the full MIMIC dataset is now ready to be deployed as a data and predictive machine learning product. We chose to use streamlit to deploy a dashboard that allows users to perform exploratory data analyses and also make predictions using our final XGBRFClassifier.  
 The first part of the streamlit application allows users to input a continuous and a categorical variable of interest from a drop-down menu. The dashboard reacts accordingly and outputs interactive plots of each variable stratifed by death status.  
-The second part of the streamlit application allows users to input ICU stay information, where each user input is a covariate in the XGBRFClassifier.  
+The second part of the streamlit application allows users to input ICU stay information, where each user input is a covariate in the XGBRFClassifier. Based on the input covariates, the model will predict on the patient and give a probability of death score between 0 and 100.   
+The score is then categorized into "Low" (<15), "Medium" (>=15 & <20), and "High" (>=20) probability of death. These cut-offs are chosen from the distribution of scores found in the final model on the test and training datasets.  
+
 Consider for example the user is overseeing a patient in the ICU who has had a length of stay of 8 days, 2 administrations of insulin, had a *Emergency* admit type,  and has had 2 dialysis procedures.  
 The user will then input these covariates in the dashboard. The dashboard will output a risk of death during the patient's ICU stay, and also a risk range of Low, Medium, or High.  
 
