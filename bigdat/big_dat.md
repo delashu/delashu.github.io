@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BIOS823
+title: Python Fun
 nav_order: 2
 has_children: true
 permalink: /bigdat
