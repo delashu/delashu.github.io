@@ -2,7 +2,7 @@
 layout: default
 title: Dashboards
 parent: Python Fun
-nav_order: 4
+nav_order: 1
 ---
 
 # Dashboards in Python  

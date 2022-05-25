@@ -2,7 +2,7 @@
 layout: default
 title: ICU Modeling
 parent: Python Fun
-nav_order: 6
+nav_order: 2
 ---
 
 # Modeling ICU Deaths  

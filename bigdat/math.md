@@ -2,7 +2,7 @@
 layout: default
 title: Math is Fun!
 parent: Python Fun
-nav_order: 1
+nav_order: 5
 ---
 
 # Math is Fun! Project Euler

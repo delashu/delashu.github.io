@@ -2,7 +2,7 @@
 layout: default
 title: Number Theory
 parent: Python Fun
-nav_order: 2
+nav_order: 4
 ---
 
 

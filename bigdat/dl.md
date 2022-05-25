@@ -2,7 +2,7 @@
 layout: default
 title: Deep Learning
 parent: Python Fun
-nav_order: 5
+nav_order: 3
 ---
 
 # Deep Learning Bug Classification  
