@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Visualizations
-parent: BIOS823
+parent: Python Fun
 nav_order: 3
 ---
 

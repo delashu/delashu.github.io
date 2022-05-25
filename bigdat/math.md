@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Math is Fun!
-parent: BIOS823
+parent: Python Fun
 nav_order: 1
 ---
 

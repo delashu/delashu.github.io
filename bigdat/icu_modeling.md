@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ICU Modeling
-parent: BIOS823
+parent: Python Fun
 nav_order: 6
 ---
 

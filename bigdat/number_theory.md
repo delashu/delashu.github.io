@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Number Theory
-parent: BIOS823
+parent: Python Fun
 nav_order: 2
 ---
 
