@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research and Presentations
-nav_order: 4
+nav_order: 3
 ---
 
 # Publications, Posters, and Oral Presentations
