@@ -4,7 +4,7 @@ title: Research and Presentations
 nav_order: 4
 ---
 
-# Research Publications, Posters, and Oral Presentations
+# Publications, Posters, and Oral Presentations
 
 ## Publications  
 Wilson, P. M., Philpot, L. M., Ramar, P., Storlie, C. B., Strand, J., Morgan, A. A., Asai, S. W., Ebbert, J. O., Herasevich, V. D., Soleimani, J., & Pickering, B. W. [“Improving Time to Palliative Care Review with Predictive Modeling in an Inpatient Adult Population: Study Protocol for a Stepped-Wedge, Pragmatic Randomized Controlled Trial.”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8444160/) Trials, 22(1), 635. (2021).
