@@ -4,7 +4,7 @@ title: Research and Presentations
 nav_order: 4
 ---
 
-# Research Poster and Oral Presentations
+# Research Publications, Posters, and Oral Presentations
 
 
 ## Presentations                     
