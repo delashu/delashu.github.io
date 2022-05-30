@@ -7,6 +7,8 @@ nav_order: 3
 # Publications, Posters, and Oral Presentations
 
 ## Publications  
+Havyer, R., Heinzen, E., Wilson, P., Bartley, M., Demuth, G., **Asai, S.**, ... & Storlie, C. (2022). Use of Machine Learning Algorithm to Identify Patients in Need of Palliative Care in a Primary Care Population: A Pilot Study (RP502). [Journal of Pain and Symptom Management, 63(6), 1098.](https://www.sciencedirect.com/science/article/pii/S088539242200553X?casa_token=jLxg48CQ8RQAAAAA:oLWLZuFyhr9Q1f1uT8g6c7lwS68Vd2rrnOoiSIiRfcOaWn36MuIkyORdR2KX4986yNmNdmWIQwc)
+
 Wilson, P. M., Philpot, L. M., Ramar, P., Storlie, C. B., Strand, J., Morgan, A. A., **Asai, S. W.**, Ebbert, J. O., Herasevich, V. D., Soleimani, J., & Pickering, B. W. “Improving Time to Palliative Care Review with Predictive Modeling in an Inpatient Adult Population: Study Protocol for a Stepped-Wedge, Pragmatic Randomized Controlled Trial.” [Trials, 22(1), 635. (2021).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8444160/)
 
 Dennis H. Murphree, Patrick M. Wilson, **Shusaku W. Asai**, Daniel J. Quest, Yaxiong Lin, Piyush Mukherjee, Nirmal Chhugani, Jacob J. Strand, Gabriel Demuth, David Mead, Brian Wright, Andrew Harrison, Jalal Soleimani ,Vitaly Herasevich, Brian W. Pickering, Curtis B. Storlie, “Improving the Delivery of Palliative Care Through Predictive Modeling and Healthcare Informatics”, Journal of the American Medical Informatics Association, [Volume 28, Issue 6, June 2021, Pages 1065–1073](https://academic.oup.com/jamia/article-abstract/28/6/1065/6145883?login=false)
