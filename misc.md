@@ -19,9 +19,14 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| Bad Blood: Secrets and Lies in a Silicon Valley Startup |  John Carreyrou   | 06/2022         | In Progress           |
+| The Death and Life of Great American Cities |  Jane Jacobs   | 06/2022         | In Progress           |
+| Crying in H-Mart |  Michelle Zauner   | 01/2022         | 01/2022           |
+| Open |  Andre Agassi   | 12/2021         | 01/2022           |
+| Becoming |  Michelle Obama   | 12/2021         | 12/2021           |
 | An Artist of the Floating World |  Kazuo Ishiguro   | 08/2021         | 08/2021           |
 | The Alchemist |  Paul Coelho   | 07/2021         | 07/2021           |
-| Cork Dork |  Bianca Bosker   | 07/2021         | In Progress           |
+| Cork Dork |  Bianca Bosker   | 07/2021         | 06/2022           |
 | God of Small Things |  Arundhati Roy   | 05/2021         | 07/2021           |
 | ハリー・ポッターと賢者の石 |  J・K・ローリング、松岡 佑子   | 01/2021         | In Progress           |
 | The Shadow of the Wind |  Carlos Ruiz Zafón   | 01/2021         | In Progress           |
