@@ -21,6 +21,7 @@ A list of books I have recently read.
 |:-------------|:------------------|:-------------|:---------------|
 | Bad Blood: Secrets and Lies in a Silicon Valley Startup |  John Carreyrou   | 06/2022         | In Progress           |
 | The Death and Life of Great American Cities |  Jane Jacobs   | 06/2022         | In Progress           |
+| Things Fall Apart |  Chinua Achebe   | 04/2022         | 05/2022           |
 | Crying in H-Mart |  Michelle Zauner   | 01/2022         | 01/2022           |
 | Open |  Andre Agassi   | 12/2021         | 01/2022           |
 | Becoming |  Michelle Obama   | 12/2021         | 12/2021           |
