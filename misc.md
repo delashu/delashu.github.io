@@ -19,6 +19,7 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| Murder on the Orient Express |  Agatha Christie   | 08/2022         | 08/2022           |
 | Caste |  Isabel Wilkerson   | 08/2022         | In Progress           |
 | Sputnik Sweetheart |  Haruki Murakami   | 08/2022         | 08/2022           |
 | Four Thousand Weeks |  Oliver Burkeman   | 06/2022         | 07/2022           |
