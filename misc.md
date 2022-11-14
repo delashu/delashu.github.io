@@ -22,6 +22,7 @@ A list of books I have recently read.
 | Celebrations |  Maya Angelou   | 11/2022         | In Progress           |
 | Norwegian Wood |  Haruki Murakami   | 11/2022         | In Progress           |
 | Red and Me |  Bill Russell   | 11/2022         | In Progress           |
+| Go Up for Glory |  Bill Russell   | 11/2022         | 11/2022           |
 | Murder on the Orient Express |  Agatha Christie   | 08/2022         | 08/2022           |
 | Caste |  Isabel Wilkerson   | 08/2022         | 11/2022           |
 | Sputnik Sweetheart |  Haruki Murakami   | 08/2022         | 08/2022           |
