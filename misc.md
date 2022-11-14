@@ -21,7 +21,7 @@ A list of books I have recently read.
 |:-------------|:------------------|:-------------|:---------------|
 | Go Up for Glory |  Bill Russell   | 11/2022         | 11/2022           |
 | Murder on the Orient Express |  Agatha Christie   | 08/2022         | 08/2022           |
-| Caste |  Isabel Wilkerson   | 08/2022         | In Progress           |
+| Caste |  Isabel Wilkerson   | 08/2022         | 11/2022           |
 | Sputnik Sweetheart |  Haruki Murakami   | 08/2022         | 08/2022           |
 | Four Thousand Weeks |  Oliver Burkeman   | 06/2022         | 07/2022           |
 | Bad Blood: Secrets and Lies in a Silicon Valley Startup |  John Carreyrou   | 06/2022         | 06/2022           |
