@@ -19,9 +19,13 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
-| Celebrations |  Maya Angelou   | 11/2022         | In Progress           |
-| Norwegian Wood |  Haruki Murakami   | 11/2022         | In Progress           |
-| Red and Me |  Bill Russell   | 11/2022         | In Progress           |
+| The Poetry of William Wordsworth |  Alan Gardiner   | 12/2022         | In Progress           |
+| A Promised Land |  Barack Obama   | 12/2022         | In Progress           |
+| Nudge |  Thaler & Sunstein   | 12/2022         | 12/2022           |
+| Greenlights |  Matthew Mcconaughey   | 12/2022         | 12/2022           |
+| Celebrations |  Maya Angelou   | 11/2022         | 12/2022           |
+| Norwegian Wood |  Haruki Murakami   | 11/2022         | 12/2022           |
+| Red and Me |  Bill Russell   | 11/2022         | 11/2022           |
 | Go Up for Glory |  Bill Russell   | 11/2022         | 11/2022           |
 | Murder on the Orient Express |  Agatha Christie   | 08/2022         | 08/2022           |
 | Caste |  Isabel Wilkerson   | 08/2022         | 11/2022           |
