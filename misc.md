@@ -10,7 +10,7 @@ Cool plots created in 'R'
 
 ![useful image]({{ https://github.com/delashu/delashu.github.io }}/ggr.png)
 
-Code used to create this plot is found [here](https://github.com/delashu/aRt/blob/master/graph_art.R)
+Code used to create this plot is found [here](https://github.com/delashu/aRt/blob/master/graph_art.R) 
 
 
 ### Books 
