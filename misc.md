@@ -19,7 +19,15 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
-| The Poetry of William Wordsworth |  Alan Gardiner   | 12/2022         | In Progress           |
+| Five Moral Pieces |  Umberto Eco   | 07/2023         | In Progress           |
+| Men Without Women |  Haruki Murakami   | 07/2023         | 07/2023           |
+| The Inner Game of Tennis |  Timothy Gallwey   | 06/2023         | 06/2023           |
+| Born a Crime |  Trevor Noah   | 06/2023         | 07/2023           |
+| Kitchen Confidential |  Anthony Bourdain   | 05/2023         | 05/2023           |
+| Coach K: The Rise and Reign of Mike Krzyzewski |  Ian O'Connor   | 04/2023         | 06/2023           |
+| Eat a Peach |  David Chang   | 04/2023         | 06/2023           |
+| The Unconsoled |  Kazuo Ishiguro   | 02/2023         | 04/2023           |
+| The Poetry of William Wordsworth |  Alan Gardiner   | 12/2022         | 02/2023           |
 | A Promised Land |  Barack Obama   | 12/2022         | In Progress           |
 | Nudge |  Thaler & Sunstein   | 12/2022         | 12/2022           |
 | Greenlights |  Matthew Mcconaughey   | 12/2022         | 12/2022           |
