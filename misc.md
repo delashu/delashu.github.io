@@ -4,15 +4,6 @@ title: Misc.
 nav_order: 4
 ---
 
-### a'R't
-
-Cool plots created in 'R'  
-
-![useful image]({{ https://github.com/delashu/delashu.github.io }}/ggr.png)
-
-Code used to create this plot is found [here](https://github.com/delashu/aRt/blob/master/graph_art.R) 
-
-
 ### Books 
 
 A list of books I have recently read.
