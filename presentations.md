@@ -4,8 +4,6 @@ title: Research and Presentations
 nav_order: 2
 ---
 
-# Publications, Posters, and Oral Presentations
-
 ## Recent Publications  
 Full list of publications found on [Google Scholar](https://scholar.google.com/citations?user=kHkF6ocAAAAJ&hl=en&oi=ao)   
 
