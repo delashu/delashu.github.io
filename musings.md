@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Misc.
+title: Musings
 nav_order: 4
 ---
 ## Musings
