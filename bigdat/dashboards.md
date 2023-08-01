@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dashboards
-parent: Python Fun
+parent: Programming
 nav_order: 1
 ---
 

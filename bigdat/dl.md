@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deep Learning
-parent: Python Fun
+parent: Programming
 nav_order: 3
 ---
 

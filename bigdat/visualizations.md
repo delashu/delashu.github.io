@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Visualizations
-parent: Python Fun
+parent: Programming
 nav_order: 6
 ---
 

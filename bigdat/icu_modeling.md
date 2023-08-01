@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ICU Modeling
-parent: Python Fun
+parent: Programming
 nav_order: 2
 ---
 
