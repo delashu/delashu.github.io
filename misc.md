@@ -6,11 +6,13 @@ nav_order: 5
 
 ### Books 
 
-A list of books I have recently read.
+A list of books I have recently read.  
+
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
-| Five Moral Pieces |  Umberto Eco   | 07/2023         | In Progress           |
+| Labyrinths |  Jorge Luis Borges   | 08/2023         | In Progress           |
+| Five Moral Pieces |  Umberto Eco   | 07/2023         | 08/2023           |
 | Men Without Women |  Haruki Murakami   | 07/2023         | 07/2023           |
 | The Inner Game of Tennis |  Timothy Gallwey   | 06/2023         | 06/2023           |
 | Born a Crime |  Trevor Noah   | 06/2023         | 07/2023           |
