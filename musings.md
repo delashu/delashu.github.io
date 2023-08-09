@@ -3,11 +3,10 @@ layout: default
 title: Musings
 nav_order: 4
 ---
-## Musings
+## Musings  
 
 <h2>  Stockholm  <sub><sup>(July, 2023)</sup></sub></h2> 
 <ul style="list-style-type:none;">
-Stockholm, Sweden: 
 I'm obliged to start my musings by acknowleding that I spent a week in Stockholm during the summertime - the time of year in Sweden when the days are long, the flowers are blooming, restaurant outdoor seating is plentiful, and Vitamin D supplements aren't necessary. The winters on the otherhand, I hear are miserable. Perhaps it is this dichotomy along with the brevity of the summer days that make the locals savor every last ray of the sun, glowing in the fresh Scandanavian air (I swear to you the Swedes glow differently in the sun). <BR>
 And honestly, they have every reason to be out there enjoying the quietly aesthetic city that is Stockholm. The smattering of colors that somehow work, the cool breeze off the water, the mix of cars, boats, trains, kayaks, and bikes all traversing the city - none of it was 'in your face'. It all felt just-right and unforced. Similarly, my stay in stockholm felt unforced, consisting of a healthy mix of the usual touristy attractions, exploring the city by foot, and eating the local cuisine.  <BR>  
 
@@ -28,6 +27,21 @@ I'll be back for the Kardemommeboller.
 
 
 
+<h2>  Buenos Aires  <sub><sup>(July, 2023)</sup></sub></h2> 
+<ul style="list-style-type:none;">  
+
+Every city has unwritten rules. When you understand these rules, the better you can exploit these rules, get more out of the city, and step through new doorways previously shut. Don't understand or don't play by the rules?  <BR> 
+Easy - You'll step in the shit.  <BR> 
+Most of us have unknowingly been the rule-makers all our lives. As citizens, locals, and community members, we are bestowed the right to create the standards that become the fabric in our respective neighborhoods. But, I was stripped of this power when I visited Buenos Aires. I lost it completely - and to be honest, it was really, really fun.  <BR> 
+I didn't think being humbled would be a state of mind that I desired, but my week in Buenos Aires changed that. I left for my trip on a whim, my only preparation being a few notes I saw on reddit posts. At first, I felt as though everything was happening so quick and if I didn't keep up, my ride to Argentine glory would leave me behind with only my bruised ego. But I eventually found my pace and learned to appreciate all that was unfolding in front of me. <BR> 
+Luckily, my elementary Spanish sufficed for *most* interactions, as the mere fact that I could utter basic phrases seemed to please the locals. My spanish, in fact, was somehow sufficient enough for the slightly seedy cash exchange with a broker who worked nearby my hotel. What first seemed like a orderly game of poker between me and the broker quickly busted open into a full fledged tennis match of broken Spanish and el inglés chapurreado. Numbers that I for sure did not comprehend were served over to me and I returned with over zealous counteroffers. We went back and forth with rapid fire pace, neither willing to give an inch. Despite our spirited rallies, we amicably agreed on an exchange rate - a rate that to this day I do not know was worthy of my five-set effort. What I did know was that receiving my pesos meant receiving my lifeblood - Cash was King in Buenos Aires during my stay.  <BR> 
+This interaction turned out to be the perfect welcome. It was swift, unexpected, required me to be quick thinking, and most of all, I had fun doing it all while learning the rules. I can assure you, though, that not all my exchanges had outcomes as favorable as this. The steak that I thought I ordered medium came out thoroughly charred to the core, and in my first cafe, it took the waiter using hand gestures and miming to ask if I wanted sparkling or still water.  <BR> 
+Some of my most human and memorable exchanges occured with my cab drivers - they were all so gregarious and ready to teach me a lesson or two about Buenos Aires. Interestingly enough, the cab was the ideal space where I could speak Spanish one on one with a local and hear what they had to say about their country. I learned quite a bit about Argentine history, culture, and politics in my various rides.  <BR> 
+I loved the grittiness of Buenos Aires - there was constant movement and each neighborhood had its unique charm. It's a shame that I had to leave when my stride finally felt like it started to match that of the city and its citizens. Buenos Aires appeared to be in constant motion, but it wasn't a blur - it was a beautiful mosaic of parks, cafes, transit, murals, and people.  <BR> 
+One last thing about BsAs - there's dog shit all over the streets. Watch out for it, or else you'll get a shoe full. 
+
+
+</ul>  
 
 <h2>  Best books I read in 2020  <sub><sup>(December, 2020)</sup></sub></h2> 
 <ul style="list-style-type:none;">
