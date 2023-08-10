@@ -53,10 +53,7 @@ The first gif shows the user selecting, "Mathematics and Statistics".
 Once selected, all elements of the dashboard change accordingly. The default is set to, "All fields".      
 ![Example Dash one](dash_one.gif)   
 
-
-The elements of the dashboard can be expanded. The gif below shows the user getting a better look at the line plot and raw data.   
-
-![Example Dash two](dash_two.gif)   
+  
 
 Below is a print-out of the summary table found at the bottom of the page.  Interestingly, there is a precipitous drop in PhD graduates in "Mathematics and Statistics" in 2002 with only 739. Conversely 1,856 doctoral degrees in "Mathematics and Statistics" were awarded in 2017.    
 
@@ -93,8 +90,6 @@ Once selected, all elements of the dashboard change accordingly.
 
 ![Example Dash three](dash_three.gif)  
 
-The elements of the dashboard are all interactive. The gif below shows the user scrolling through the bars and expanding the table.   
-![Example Dash three](dash_four.gif)  
 
 Below is a print out of the table at the bottom of the dashboard:   
   
