@@ -37,6 +37,12 @@ I didn't think being humbled would be a state of mind that I desired, but my wee
 Luckily, my elementary Spanish sufficed for *most* interactions, as the mere fact that I could utter basic phrases seemed to please the locals. My spanish, in fact, was somehow sufficient enough for the slightly seedy cash exchange with a broker who worked nearby my hotel. What first seemed like a orderly game of poker between me and the broker quickly busted open into a full fledged tennis match of broken Spanish and el inglés chapurreado. Numbers that I for sure did not comprehend were served over to me and I returned with over zealous counteroffers. We went back and forth with rapid fire pace, neither willing to give an inch. Despite our spirited rallies, we amicably agreed on an exchange rate - a rate that to this day I do not know was worthy of my five-set effort. What I did know was that receiving my pesos meant receiving my lifeblood - Cash was King in Buenos Aires during my stay.  <BR> 
 This interaction turned out to be the perfect welcome. It was swift, unexpected, required me to be quick thinking, and most of all, I had fun doing it all while learning the rules. I can assure you, though, that not all my exchanges had outcomes as favorable as this. The steak that I thought I ordered medium came out thoroughly charred to the core, and in my first cafe, it took the waiter using hand gestures and miming to ask if I wanted sparkling or still water.  <BR> 
 Some of my most human and memorable exchanges occured with my cab drivers - they were all so gregarious and ready to teach me a lesson or two about Buenos Aires. Interestingly enough, the cab was the ideal space where I could speak Spanish one on one with a local and hear what they had to say about their country. I learned quite a bit about Argentine history, culture, and politics in my various rides.  <BR> 
+<p float="left">
+  <img src="./photos/BA_1.jpg" width="221" />
+  <img src="./photos/BA_2.jpg" width="221" /> 
+  <img src="./photos/BA_3.jpg" width="221" />
+</p>    
+<BR>   
 I loved the grittiness of Buenos Aires - there was constant movement and each neighborhood had its unique charm. It's a shame that I had to leave when my stride finally felt like it started to match that of the city and its citizens. Buenos Aires appeared to be in constant motion, but it wasn't a blur - it was a beautiful mosaic of parks, cafes, transit, murals, and people.  <BR> 
 One last thing about BsAs - there's dog shit all over the streets. Watch out for it, or else you'll get a shoe full. 
 
