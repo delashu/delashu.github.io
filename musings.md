@@ -9,6 +9,12 @@ nav_order: 4
 <ul style="list-style-type:none;">
 I'm obliged to start my musings by acknowleding that I spent a week in Stockholm during the summertime - the time of year in Sweden when the days are long, the flowers are blooming, restaurant outdoor seating is plentiful, and Vitamin D supplements aren't necessary. The winters on the otherhand, I hear are miserable. Perhaps it is this dichotomy along with the brevity of the summer days that make the locals savor every last ray of the sun, glowing in the fresh Scandanavian air (I swear to you the Swedes glow differently in the sun). <BR>
 And honestly, they have every reason to be out there enjoying the quietly aesthetic city that is Stockholm. The smattering of colors that somehow work, the cool breeze off the water, the mix of cars, boats, trains, kayaks, and bikes all traversing the city - none of it was 'in your face'. It all felt just-right and unforced. Similarly, my stay in Stockholm felt unforced, consisting of a healthy mix of the usual touristy attractions, exploring the city by foot, and eating the local cuisine.  <BR>  
+<p float="left">
+  <img src="./photos/stock_1.jpg" width="221" />
+  <img src="./photos/stock_2.jpg" width="221" /> 
+  <img src="./photos/stock_3.jpg" width="221" />
+</p>    
+<BR>  
 
   <li>The Vasa Museum lives up to the hype and should not be missed. The museum commemorates a benemouth warship that sank shortly after its first departure. Despite the failed functionality of the boat, it remains a testament of labor and artistry. </li>  
   <li>I enjoyed bathing in the greenery and waterscape of each park and walking path we explored. Bellevue parken has a walking path where you may come across locals grilling in the firepits, kayakers, small lakeside restaurants that serve aperol spritz, and tennis being played on red clay courts. We opted to kick a ball around on one of the turf fields.  </li>  
