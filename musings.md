@@ -7,7 +7,7 @@ nav_order: 4
 
 <h2>  Stockholm  <sub><sup>(July, 2023)</sup></sub></h2> 
 <ul style="list-style-type:none;">
-I'm obliged to start my musings by acknowleding that I spent a week in Stockholm during the summertime - the time of year in Sweden when the days are long, the flowers are blooming, restaurant outdoor seating is plentiful, and Vitamin D supplements aren't necessary. The winters on the otherhand, I hear are miserable. Perhaps it is this dichotomy along with the brevity of the summer days that make the locals savor every last ray of the sun, glowing in the fresh Scandanavian air (I swear to you the Swedes glow differently in the sun). <BR>
+I'm obliged to start by acknowleding that I spent a week in Stockholm during the summertime - the time of year in Sweden when the days are long, the flowers are blooming, restaurant outdoor seating is plentiful, and Vitamin D supplements aren't necessary. The winters on the otherhand, I hear are miserable. Perhaps it is this dichotomy along with the brevity of the summer days that make the locals savor every last ray of the sun, glowing in the fresh Scandanavian air (I swear to you the Swedes glow differently in the sun). <BR>
 And honestly, they have every reason to be out there enjoying the quietly aesthetic city that is Stockholm. The smattering of colors that somehow work, the cool breeze off the water, the mix of cars, boats, trains, kayaks, and bikes all traversing the city - none of it was 'in your face'. It all felt just-right and unforced. Similarly, my stay in Stockholm felt unforced, consisting of a healthy mix of the usual touristy attractions, exploring the city by foot, and eating the local cuisine.  <BR>  
 <p float="left">
   <img src="./photos/stock_1.jpg" width="221" />
