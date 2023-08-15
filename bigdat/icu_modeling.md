@@ -6,7 +6,8 @@ nav_order: 2
 ---
 
 # Modeling ICU Deaths  
-Team Members: **Shusaku Asai**, Saahithi Rao, Michael Tang, Yi Feng  
+   
+  
 ## Background & Motivation  
 The Intensive Care Unit (ICU) is a specialized treament department within hospitals that provide critical medical care and life support to patients. Deaths in the ICU prove to be a problematic challenge that healthcare reserachers and professionals try preventing and forecasting ( [Zimmerman JE, et. al 2013](https://pubmed.ncbi.nlm.nih.gov/23622086/), [Young MP, et. al 2000](https://pubmed.ncbi.nlm.nih.gov/11151525/), [USF Health Policy Reserach](https://healthpolicy.ucsf.edu/icu-outcomes), [Braber A, et. al 2010](https://pubmed.ncbi.nlm.nih.gov/20386386/),  [Wu AW, et. al 2002](https://pubmed.ncbi.nlm.nih.gov/12096371/) ).   
 
@@ -171,23 +172,6 @@ The score is then categorized into "Low" (<15), "Medium" (>=15 & <20), and "High
 Consider for example the user is overseeing a patient in the ICU who has had a length of stay of 8 days, 2 administrations of insulin, had a *Emergency* admit type,  and has had 2 dialysis procedures.  
 The user will then input these covariates in the dashboard. The dashboard will output a risk of death during the patient's ICU stay, and also a risk range of Low, Medium, or High.  
 
-Click the badge, [![my streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/delashu/bios823_project/main/scripts/dashboard/icu_dash.py), or use the hyperlink [here](https://share.streamlit.io/delashu/bios823_project/main/scripts/dashboard/icu_dash.py) to open the dashboard.   
+Click the badge, [![my streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/delashu/bios823_project/main/scripts/dashboard/icu_dash.py), or use the hyperlink [here](https://share.streamlit.io/delashu/bios823_project/main/scripts/dashboard/icu_dash.py) to open the dashboard.     
 
-
-## Individual Contributions <a name="contr"></a>     
-My contributions to the project revolved around *organization*, *feature engineering*, *baseline modeling*, and the *dashboard*. I am an organized individual, so from the beginnning of the project, I created the github repository with specific folder structures. I also set up the slack group and formed various channels for the aims and sub-goals within the project.  
-I kept up with each member's progress towards sub-goals and coordinated zoom and in-person meetings throughout the project lifespan.  
-Saahithi and I were also responsible for the feature engineering. Together we performed literature review and used differing tables within the MIMIC dataset to create one tidy dataframe for modeling. I also contributed to the functionization of the feature engineering to ensure that the feature engineering on the demo data could be translated with ease to the full MIMIC data.  
-
-I also performed baseline modeling. This required performing various pre-processing (ie splitting into test and training, ensuring dtypes are correct, ensuring there is not heavy inbalancing, checking dataframe/array shapes) first. Once I processed the data, I fit the dummy classifier and three relatively straight forward models.  
-Michael and Saahithi then used their respective modeling expertise to try other models with varying complexity.   
-
-I also created the dashboard. This required organizing the layout, creating exploratory data plots, and outputting the risk score calculator visualizations. Dashboard creation is a creative, organizational, and design centered task, which I very much enjoy. I toyed with varying layouts, colors, visualizations, and text formats before outputting the final sketch.   
-Team work was paramount for dashboard success. Since Michael handled the final model saving, I had to ensure all column names and inputs from the dashboard matched exactly the XGBRFClassifier. Saahithi re-coded all the dummy variables from user-inputs in the dashboard to ensure the correct covariates were input into the prediction. Yi gave great inspiration and foundation for the exploratory data plotly visuzalitions. 
-
-### Experience Reflection  
-
-I have three main take-aways from the completion of this group project:  
-1. Data Extraction and Feature Engineering took much more time and effort than the modeling. Much of the group's effort and time was devoted to applying to access the data, trying various tools to extract and store the data, and finally creating a tidy dataset that could be used for modeling. These steps required us to be detail oriented and meticulous with our workflow since the pipelines would be migrated from the demo data to the full MIMIC data. This part of the project was iterative, as we failed early and often.  
-2. Leveraging each group member's expertise is a great advantage. Since our group consisted of two MIDS students and two Biostatistics students, each member had a different skillset, background, and perspective on the problem. Once the project description was set, it was integral to use each member's expertise to achieve sub-goals within the project. The Biostatistics students provided insightful domain level literature review necessary for variable selection and feature engineering. They also fit models with differing complexity with an understanding of the mathematical basis behind each model. The MIDS students were able to query the larger datasets with ease, and also fine tune the final model via hyperparameter optimization. Each member contributed to create a strong final product.  
-3. Dashboard creation is fun. I had a lot of fun creating, designing, and tweaking the dashboard to fit the group's needs and goals. 
+  
