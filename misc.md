@@ -12,7 +12,7 @@ A list of books I have recently read.
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
 | The Way of Zen |  Alan Watts   | 08/2023         | In Progress           |
-| Japan 1941: Countdown to Infamy |  Eri Hotta   | 08/2023         | In Progress           |
+| Japan 1941: Countdown to Infamy |  Eri Hotta   | 08/2023         | 09/2023           |
 | Five Moral Pieces |  Umberto Eco   | 07/2023         | 08/2023           |
 | Animal Farm |  George Orwell   | 07/2023         | 07/2023           |
 | Men Without Women |  Haruki Murakami   | 07/2023         | 07/2023           |
