@@ -13,7 +13,7 @@ A list of books I have recently read.
 |:-------------|:------------------|:-------------|:---------------|
 | The Ten Most Beautiful Experiments |  George Johnson   | 11/2023         | In Progress           |
 | Memoirs of a Geisha |  Arthur Golden   | 11/2023         | In Progress           |
-| The Sailor Who Fell From Grace With The Sea |  Yukio Mishima   | 11/2023         | 11/2023           |
+| The Sailor Who Fell From Grace with the Sea |  Yukio Mishima   | 11/2023         | 11/2023           |
 | The Shadow of the Wind |  Carlos Ruiz Zafón   | 01/2021         | 10/2023           |
 | The Way of Zen |  Alan Watts   | 08/2023         | In Progress           |
 | Japan 1941: Countdown to Infamy |  Eri Hotta   | 08/2023         | 09/2023           |
