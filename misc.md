@@ -11,6 +11,10 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| The Ten Most Beautiful Experiments |  George Johnson   | 11/2023         | In Progress           |
+| Memoirs of a Geisha |  Arthur Golden   | 11/2023         | In Progress           |
+| The Sailor Who Fell From Grace With The Sea |  Yukio Mishima   | 11/2023         | 11/2023           |
+| The Shadow of the Wind |  Carlos Ruiz Zafón   | 01/2021         | 10/2023           |
 | The Way of Zen |  Alan Watts   | 08/2023         | In Progress           |
 | Japan 1941: Countdown to Infamy |  Eri Hotta   | 08/2023         | 09/2023           |
 | Five Moral Pieces |  Umberto Eco   | 07/2023         | 08/2023           |
@@ -45,7 +49,6 @@ A list of books I have recently read.
 | Cork Dork |  Bianca Bosker   | 07/2021         | 06/2022           |
 | God of Small Things |  Arundhati Roy   | 05/2021         | 07/2021           |
 | ハリー・ポッターと賢者の石 |  J・K・ローリング、松岡 佑子   | 01/2021         | In Progress           |
-| The Shadow of the Wind |  Carlos Ruiz Zafón   | 01/2021         | In Progress           |
 | Language and Problems of Knowledge |  Noam Chomsky   | 01/2021         | 07/2021           |
 | Fear and Trembling |  Amélie Nothomb   | 12/2020         | 12/2020           |
 | Embracing Defeat |  James Dower   | 05/2020         | 12/2020           |
