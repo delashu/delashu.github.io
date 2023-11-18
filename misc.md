@@ -11,6 +11,7 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| First Person Singular |  Haruki Murakami   | 11/2023         | In Progress           |
 | The Ten Most Beautiful Experiments |  George Johnson   | 11/2023         | 11/2023           |
 | Memoirs of a Geisha |  Arthur Golden   | 11/2023         | In Progress           |
 | The Sailor Who Fell From Grace with the Sea |  Yukio Mishima   | 11/2023         | 11/2023           |
