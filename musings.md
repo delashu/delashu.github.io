@@ -3,9 +3,15 @@ layout: default
 title: Musings
 nav_order: 4
 ---
-## Musings  
+## Musings       
+- [Stockholm](#stocholm)   
+- [Buenos Aires](#buenos-aires)  
+- [Beppu](#beppu)   
+- [Books](#books-twenty)   
+- [Albums](#albums-twenty)   
 
-<h2>  Stockholm  <sub><sup>(July, 2023)</sup></sub></h2> 
+### Stockholm  
+<h2><sub><sup>(July, 2023)</sup></sub></h2> 
 <ul style="list-style-type:none;">
 I'm obliged to start by acknowleding that I spent a week in Stockholm during the summertime - the time of year in Sweden when the days are long, the flowers are blooming, restaurant outdoor seating is plentiful, and Vitamin D supplements aren't necessary. The winters on the otherhand, I hear are miserable. Perhaps it is this dichotomy along with the brevity of the summer days that make the locals savor every last ray of the sun, glowing in the fresh Scandanavian air (I swear to you the Swedes glow differently in the sun). <BR>
 And honestly, they have every reason to be out there enjoying the quietly aesthetic city that is Stockholm. The smattering of colors that somehow work, the cool breeze off the water, the mix of cars, boats, trains, kayaks, and bikes all traversing the city - none of it was 'in your face'. It all felt just-right and unforced. Similarly, my stay in Stockholm felt unforced, consisting of a healthy mix of the usual touristy attractions, exploring the city by foot, and eating the local cuisine.  <BR>  
@@ -32,8 +38,8 @@ I'll be back for the Kardemommeboller.
 </ul>  
 
 
-
-<h2>  Buenos Aires  <sub><sup>(July, 2023)</sup></sub></h2> 
+### Buenos Aires    
+<h2><sub><sup>(July, 2023)</sup></sub></h2> 
 <ul style="list-style-type:none;">  
 
 Every city has unwritten rules. When you understand these rules, the better you can exploit these rules, get more out of the city, and step through new doorways previously shut. Don't understand or don't play by the rules?  <BR> 
@@ -55,8 +61,8 @@ One last thing about BsAs - there's dog shit all over the streets. Watch out for
 
 </ul>  
 
-
-<h2>  Beppu  <sub><sup>(February, 2023)</sup></sub></h2> 
+### Beppu   
+<h2><sub><sup>(February, 2023)</sup></sub></h2> 
 <ul style="list-style-type:none;">
 Japanese ferry rides are often overlooked by locals and travelers alike. While trains provide the clean, punctual, and efficient experience of quintessential Japanese travel, the ferry ride offers another distinct way to journey across Japan that should not be missed.  <BR> 
 In February I boarded my first overnight Ferry with my father from Osaka bound for Beppu, a city known for relaxing and rejuvenating in its natural hot springs and seaside spas. Upon entering the ship, I was handed the keys to our room and directed towards the assortment of amenities onboard – our quarters, the buffet dinner, the views from the deck, and an ofuro, among other things. In the midst of our growing excitement, we set out to experience all the amenities onboard.    <BR>
@@ -74,6 +80,7 @@ They were welcoming me home.
 
 </ul>  
 
+### Books     
 <h2>  Best books I read in 2020  <sub><sup>(December, 2020)</sup></sub></h2> 
 <ul style="list-style-type:none;">
 <li><b>The Lady Tasting Tea (Salsburg)</b><BR>
@@ -91,7 +98,8 @@ It’s easy to get lost in the minutiae while studying statistics, but this book
 The process of the post-WWII democratization, demilitarization, and liberation of the collective Japanese mind from a power-hungry empire was, to say the least, complex. Inevitably, the undertaking of such a sweeping process comes with its fair share of consequences. Dower’s succinctly illuminates the lasting effects of these consequences:<BR>
 <BLOCKQUOTE><I>“For all their talk of democracy, the conquerors worked hard to engineer consensus; and on many critical issues, they made clear that the better part of political wisdom was silence and conformism. So well did they succeed in reinforcing this consciousness that after they left, and time passed, many non-Japanese including Americans came to regard such attitudes as peculiarly Japanese.”</I></BLOCKQUOTE>What an insightful passage. While it is true that there existed a conception that Japanese were silent and conformist pre-occupation, the result of occupation-led censorship and control perpetuated and more importantly made these traits truly tangible – especially to the rest of the world. Perhaps most mind racking is the stark contrast of the legacies left behind of these actions. The conquerors brought democracy and order swiftly without making too much noise. Yet they left behind some of today’s most quintessential traits of the Japanese.</li>
 </ul>
-
+    
+### Albums     
 <h2>  My favorite albums of 2020  <sub><sup>(December, 2020)</sup></sub></h2> 
 <ul> 
   <li>Circles (Mac Miller) </li>
