@@ -11,6 +11,7 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| スラムダンク (1-6) |  井上雄彦   | 10/2023         | 12/2023           |
 | All the Lovers in the Night |  Mieko Kawakami   | 12/2023         | 12/2023           |
 | First Person Singular |  Haruki Murakami   | 11/2023         | 12/2023           |
 | The Ten Most Beautiful Experiments |  George Johnson   | 11/2023         | 11/2023           |
