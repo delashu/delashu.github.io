@@ -55,6 +55,25 @@ One last thing about BsAs - there's dog shit all over the streets. Watch out for
 
 </ul>  
 
+
+<h2>  Beppu  <sub><sup>(February, 2023)</sup></sub></h2> 
+<ul style="list-style-type:none;">
+Japanese ferry rides are often overlooked by locals and travelers alike. While trains provide the clean, punctual, and efficient experience of quintessential Japanese travel, the ferry ride offers another distinct way to journey across Japan that should not be missed.  <BR> 
+In February I boarded my first overnight Ferry with my father from Osaka bound for Beppu, a city known for relaxing and rejuvenating in its natural hot springs and seaside spas. Upon entering the ship, I was handed the keys to our room and directed towards the assortment of amenities onboard – our quarters, the buffet dinner, the views from the deck, and an ofuro, among other things. In the midst of our growing excitement, we set out to experience all the amenities onboard.    <BR>
+We took in the sunset from the deck while breathing in the salty, cool Kansai air. We ate a buffet style dinner full of fresh seafood and sipped on draft Asahi in the dining room. We washed off and gazed into the passing city scape from the ship’s rotenburo. What I found really cool was that each of these spaces was shared with many different kinds of travelers – the gregarious gaijin journeying to a Buddhist monk retreat, the three local obachans on their way to a weekend getaway, and the cross-country truckers ready for a night at home.  <BR> 
+As we finished our drinks and sunk into a relaxed state, we prepared for bed. Peeking out the window of the quarters I saw only a few flickering lights in the darkness drifting away. The moving lights in the distance and the steady hum of the engine underneath my feet reminded me I was actually on a ship heading towards Beppu.  <BR>  
+<p float="left">
+  <img src="./photos/jpn_1.jpg" width="221" />
+  <img src="./photos/jpn_2.jpg" width="221" /> 
+</p>    
+
+<BR>
+A few months prior to returning to Japan, I read a passage written by Bill Russel in which he recounts his first trip to Africa. During his trip, Russell remarked, “somewhere in Africa is my ancestral home. I came here because I am drawn here, like any man, drawn to seek the lands of my ancestors.” As I traversed the islands of Japan on the water, Russell’s words rang true to me. I felt a draw to the lands and seas of my own ancestors that laid dormant from my long absence in Japan. The desire to connect to these lands and seas felt more salient than ever. Looking out into the seas and land from the ship’s deck,  I was sure that my ancestors were calling me back.
+
+They were welcoming me home.   
+
+</ul>  
+
 <h2>  Best books I read in 2020  <sub><sup>(December, 2020)</sup></sub></h2> 
 <ul style="list-style-type:none;">
 <li><b>The Lady Tasting Tea (Salsburg)</b><BR>
