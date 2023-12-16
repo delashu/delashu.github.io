@@ -4,7 +4,7 @@ title: Musings
 nav_order: 4
 ---
 ## Musings       
-- [Stockholm](#stocholm)   
+- [Stockholm](#stockholm)   
 - [Buenos Aires](#buenos-aires)  
 - [Beppu](#beppu)   
 - [Books](#books-twenty)   
