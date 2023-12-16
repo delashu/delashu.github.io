@@ -11,7 +11,7 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
-| All the Lovers in the Night |  Mieko Kawakami   | 12/2023         | In Progress           |
+| All the Lovers in the Night |  Mieko Kawakami   | 12/2023         | 12/2023           |
 | First Person Singular |  Haruki Murakami   | 11/2023         | 12/2023           |
 | The Ten Most Beautiful Experiments |  George Johnson   | 11/2023         | 11/2023           |
 | Memoirs of a Geisha |  Arthur Golden   | 11/2023         | In Progress           |
