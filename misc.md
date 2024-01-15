@@ -11,6 +11,8 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| Dr. Deming: The American Who Taught the Japanese About Quality |  Rafael Aguayo   | 01/2024         | In Progress           |
+| Human Compatible |  Stuart Russell   | 01/2024         | In Progress           |
 | スラムダンク (1-6) |  井上雄彦   | 10/2023         | 12/2023           |
 | All the Lovers in the Night |  Mieko Kawakami   | 12/2023         | 12/2023           |
 | First Person Singular |  Haruki Murakami   | 11/2023         | 12/2023           |
@@ -18,7 +20,7 @@ A list of books I have recently read.
 | Memoirs of a Geisha |  Arthur Golden   | 11/2023         | In Progress           |
 | The Sailor Who Fell From Grace with the Sea |  Yukio Mishima   | 11/2023         | 11/2023           |
 | The Shadow of the Wind |  Carlos Ruiz Zafón   | 01/2021         | 10/2023           |
-| The Way of Zen |  Alan Watts   | 08/2023         | In Progress           |
+| The Way of Zen |  Alan Watts   | 08/2023         | 01/2024           |
 | Japan 1941: Countdown to Infamy |  Eri Hotta   | 08/2023         | 09/2023           |
 | Five Moral Pieces |  Umberto Eco   | 07/2023         | 08/2023           |
 | Animal Farm |  George Orwell   | 07/2023         | 07/2023           |
