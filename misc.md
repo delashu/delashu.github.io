@@ -11,6 +11,8 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| When McKinsey Comes to Town |  Bogdanich, Forsythe   | 02/2024         | In Progress           |
+| Life Is Not an Accident |  Jay Williams   | 02/2024         | 02/2024           |
 | Dr. Deming: The American Who Taught the Japanese About Quality |  Rafael Aguayo   | 01/2024         | In Progress           |
 | Human Compatible |  Stuart Russell   | 01/2024         | In Progress           |
 | スラムダンク (1-6) |  井上雄彦   | 10/2023         | 12/2023           |
