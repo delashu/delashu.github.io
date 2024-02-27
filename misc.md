@@ -79,7 +79,7 @@ A list of books I have recently read.
 | The Sympathizer | Viet Thanh Nguyen   | 11/2019         | In Progress           |
 | The Buddha in the Attic | Julie Otsuka   | 12/2019         | 12/2019           |
 | Missing Persons | Patrick Modiano   | 10/2019         | 11/2019           |
-| The Black Swan | Nassum Nicholas Taleb   | 01/2020         | 02/2020           |
+| The Black Swan | Nassim Nicholas Taleb   | 01/2020         | 02/2020           |
 | Astroball | Ben Reiter   | 10/2019         | 11/2019           |
 | Nocturnes | Kazuo Ishiguro   | 09/2019         | 10/2019           |
 | Hard-Boiled Wonderland and the End of the World | Haruki Murakami   | 09/2019         | 10/2019           |
