@@ -13,7 +13,7 @@ nav_order: 4
 ### Stockholm  
 <h2><sub><sup>(July, 2023)</sup></sub></h2> 
 <ul style="list-style-type:none;">
-I'm obliged to start by acknowleding that I spent a week in Stockholm during the summertime - the time of year in Sweden when the days are long, the flowers are blooming, restaurant outdoor seating is plentiful, and Vitamin D supplements aren't necessary. The winters on the otherhand, I hear are miserable. Perhaps it is this dichotomy along with the brevity of the summer days that make the locals savor every last ray of the sun, glowing in the fresh Scandanavian air (I swear to you the Swedes glow differently in the sun). <BR>
+I spent a week in Stockholm during the summertime - the time of year in Sweden when the days are long, the flowers are blooming, restaurant outdoor seating is plentiful, and Vitamin D supplements aren't necessary. The winters on the otherhand, I hear are miserable. Perhaps it is this dichotomy along with the brevity of the summer days that make the locals savor every last ray of the sun, glowing in the fresh Scandanavian air (I swear to you the Swedes glow differently in the sun). <BR>
 And honestly, they have every reason to be out there enjoying the quietly aesthetic city that is Stockholm. The smattering of colors, the cool breeze off the water, the mix of cars, boats, trains, kayaks, and bikes all traversing the city - none of it was 'in your face'. It all felt just-right and unforced. Similarly, my stay in Stockholm felt unforced, consisting of a healthy mix of the usual touristy attractions, exploring the city by foot, and eating the local cuisine.  <BR>  
 <p float="left">
   <img src="./photos/stock_1.jpg" width="221" />
@@ -65,18 +65,20 @@ One last thing about BsAs - there's dog shit all over the streets. Watch out for
 <h2><sub><sup>(February, 2023)</sup></sub></h2> 
 <ul style="list-style-type:none;">
 Japanese ferry rides are often overlooked by locals and travelers alike. While trains provide the clean, punctual, and efficient experience of quintessential Japanese travel, the ferry ride offers another distinct way to journey across Japan that should not be missed.  <BR> 
-In February I boarded my first overnight Ferry with my father from Osaka bound for Beppu, a city known for relaxing and rejuvenating in its natural hot springs and seaside spas. Upon entering the ship, I was handed the keys to our room and directed towards the assortment of amenities onboard – our quarters, the buffet dinner, the views from the deck, and an ofuro, among other things. In the midst of our growing excitement, we set out to experience all the amenities onboard.    <BR>
-We took in the sunset from the deck while breathing in the salty, cool Kansai air. We ate a buffet style dinner full of fresh seafood and sipped on draft Asahi in the dining room. We washed off and gazed into the passing city scape from the ship’s rotenburo. What I found really cool was that each of these spaces was shared with many different kinds of travelers – the gregarious gaijin journeying to a Buddhist monk retreat, the three local obachans on their way to a weekend getaway, and the cross-country truckers ready for a night at home.  <BR> 
-As we finished our drinks and sunk into a relaxed state, we prepared for bed. Peeking out the window of the quarters I saw only a few flickering lights in the darkness drifting away. The moving lights in the distance and the steady hum of the engine underneath my feet reminded me I was actually on a ship heading towards Beppu.  <BR>  
+In February I boarded my first overnight Ferry with my father from Osaka bound for Beppu, a city known for relaxing and rejuvenating in its natural hot springs and seaside spas. Upon entering the ship, I was handed the keys to our quarters and directed towards the assortment of amenities onboard – the drink bar, the buffet dinner, the views from the deck, and an ofuro, among other things. This setting of unexpected elegance and variety was a pleasant surprise, and it eventually became an ideal place and point in time for reflection and repose.    <BR>  
 <p float="left">
-  <img src="./photos/jpn_1.jpg" width="221" />
+  <img src="./photos/jpn_1.jpg" width="221" />  
+</p>    
+
+<BR>
+We took in the sunset from the deck while breathing in the salty, cool Kansai air. We ate a buffet style dinner full of fresh seafood and sipped on draft Asahi in the dining room. We washed off and gazed into the passing city scape from the ship’s rotenburo. What I found really cool was that each of these spaces was shared with many different kinds of travelers – the gregarious gaijin journeying to a Buddhist monk retreat, the three local obachans on their way to a weekend getaway, and the cross-country truckers ready for a night at home.  <BR> 
+Back in our quarters, we finished our drinks and sunk into a relaxed state for bed. Peeking out the window I saw only a few flickering lights in the darkness drifting away. The moving lights in the distance and the steady hum of the engine underneath my feet reminded me I was actually on a ship heading towards Beppu.  <BR>  
+<p float="left">
   <img src="./photos/jpn_2.jpg" width="221" /> 
 </p>    
 
 <BR>
-A few months prior to returning to Japan, I read a passage written by Bill Russel in which he recounts his first trip to Africa. During his trip, Russell remarked, “somewhere in Africa is my ancestral home. I came here because I am drawn here, like any man, drawn to seek the lands of my ancestors.” As I traversed the islands of Japan on the water, Russell’s words rang true to me. I felt a draw to the lands and seas of my own ancestors that laid dormant from my long absence in Japan. The desire to connect to these lands and seas felt more salient than ever. Looking out into the seas and land from the ship’s deck,  I was sure that my ancestors were calling me back.
-
-They were welcoming me home.   
+As I let myself glide along with the water and passing city lights, I remembered a passage I had recently read by Bill Russel in which he recounts his first trip to Africa. During his trip, Russell remarked, “somewhere in Africa is my ancestral home. I came here because I am drawn here, like any man, drawn to seek the lands of my ancestors.” While traversing the islands of Japan on the water, Russell’s words rang true to me. My desire to connect to the lands and seas of my own ancestors felt more salient than ever. I was sure that my ancestors were calling me back. They were welcoming me home.  
 
 </ul>   
 
