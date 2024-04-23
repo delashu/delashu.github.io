@@ -66,15 +66,15 @@ One last thing about BsAs - there's dog shit all over the streets. Watch out for
 <ul style="list-style-type:none;">
 Japanese ferry rides are often overlooked by locals and travelers alike. While trains provide the clean, punctual, and efficient experience of quintessential Japanese travel, the ferry ride offers another distinct way to journey across Japan that should not be missed.  <BR> 
 In February I boarded my first overnight Ferry with my father from Osaka bound for Beppu, a city known for relaxing and rejuvenating in its natural hot springs and seaside spas. Upon entering the ship, I was handed the keys to our quarters and directed towards the assortment of amenities onboard – the drink bar, the buffet dinner, the views from the deck, and an ofuro, among other things. This setting of unexpected elegance and variety was a pleasant surprise, and it eventually became an ideal place and point in time for reflection and repose.    <BR>  
-<p float="left">
-  <img src="./photos/jpn_1.jpg" width="221" />  
+<p style="text-align:center;">
+  <img src="./photos/jpn_1.jpg" width="275" />  
 </p>    
 
 <BR>
 We took in the sunset from the deck while breathing in the salty, cool Kansai air. We ate a buffet style dinner full of fresh seafood and sipped on draft Asahi in the dining room. We washed off and gazed into the passing city scape from the ship’s rotenburo. What I found really cool was that each of these spaces was shared with many different kinds of travelers – the gregarious gaijin journeying to a Buddhist monk retreat, the three local obachans on their way to a weekend getaway, and the cross-country truckers ready for a night at home.  <BR> 
 Back in our quarters, we finished our drinks and sunk into a relaxed state for bed. Peeking out the window I saw only a few flickering lights in the darkness drifting away. The moving lights in the distance and the steady hum of the engine underneath my feet reminded me I was actually on a ship heading towards Beppu.  <BR>  
-<p float="left">
-  <img src="./photos/jpn_2.jpg" width="221" /> 
+<p style="text-align:center;">
+  <img src="./photos/jpn_2.jpg" width="275" /> 
 </p>    
 
 <BR>
