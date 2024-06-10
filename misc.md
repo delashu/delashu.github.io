@@ -11,8 +11,8 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
-| I Know Why the Caged Bird Sings |  Maya Angelou   | 05/2024         | In Progress           |
-| Bullshit Jobs |  David Graeber   | 04/2024         | In Progress           |
+| I Know Why the Caged Bird Sings |  Maya Angelou   | 05/2024         | 06/2024           |
+| Bullshit Jobs |  David Graeber   | 04/2024         | 06/2024           |
 | When McKinsey Comes to Town |  Bogdanich, Forsythe   | 02/2024         | 04/2024           |
 | Life Is Not an Accident |  Jay Williams   | 02/2024         | 02/2024           |
 | Dr. Deming: The American Who Taught the Japanese About Quality |  Rafael Aguayo   | 01/2024         | In Progress           |
