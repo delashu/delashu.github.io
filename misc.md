@@ -13,6 +13,7 @@ A list of books I have recently read.
 |:-------------|:------------------|:-------------|:---------------|
 | The Simple Path to Wealth |  JL Collins   | 06/2024         | In Progress           |
 | I Know Why the Caged Bird Sings |  Maya Angelou   | 05/2024         | 06/2024           |
+| The Art Thief |  Michael Finkel   | 05/2024         | 05/2024           |
 | Bullshit Jobs |  David Graeber   | 04/2024         | 06/2024           |
 | When McKinsey Comes to Town |  Bogdanich, Forsythe   | 02/2024         | 04/2024           |
 | Life Is Not an Accident |  Jay Williams   | 02/2024         | 02/2024           |
