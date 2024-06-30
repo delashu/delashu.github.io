@@ -11,6 +11,8 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| Game |  Grant Hill   | 06/2024         | In Progress           |
+| Charlie y La Fábrica De Chocolate |  Roald Dahl   | 06/2024         | In Progress           |
 | The Simple Path to Wealth |  JL Collins   | 06/2024         | In Progress           |
 | I Know Why the Caged Bird Sings |  Maya Angelou   | 05/2024         | 06/2024           |
 | The Art Thief |  Michael Finkel   | 05/2024         | 05/2024           |
