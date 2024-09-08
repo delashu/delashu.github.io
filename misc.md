@@ -11,6 +11,8 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| Meditations |  Marcus Aurelius   | 09/2024         | In Progress           |
+| The Death and Life of Great American Cities |  Jane Jacobs   | 06/2022         | In Progress           |
 | Wa |  Kaki Okumura   | 08/2024         | 08/2024           |
 | The Screwtape Letters |  C.S. Lewis   | 08/2024         | 08/2024           |
 | Game |  Grant Hill   | 06/2024         | 07/2024           |
@@ -55,7 +57,6 @@ A list of books I have recently read.
 | Sputnik Sweetheart |  Haruki Murakami   | 08/2022         | 08/2022           |
 | Four Thousand Weeks |  Oliver Burkeman   | 06/2022         | 07/2022           |
 | Bad Blood: Secrets and Lies in a Silicon Valley Startup |  John Carreyrou   | 06/2022         | 06/2022           |
-| The Death and Life of Great American Cities |  Jane Jacobs   | 06/2022         | In Progress           |
 | Things Fall Apart |  Chinua Achebe   | 04/2022         | 05/2022           |
 | Crying in H-Mart |  Michelle Zauner   | 01/2022         | 01/2022           |
 | Open |  Andre Agassi   | 12/2021         | 01/2022           |
