@@ -11,6 +11,7 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| Ikigai |  Garcia, Miralles   | 09/2024         | 09/2024           |
 | Meditations |  Marcus Aurelius   | 09/2024         | In Progress           |
 | The Death and Life of Great American Cities |  Jane Jacobs   | 06/2022         | In Progress           |
 | Wa |  Kaki Okumura   | 08/2024         | 08/2024           |
