@@ -4,11 +4,38 @@ title: Musings
 nav_order: 4
 ---
 ## Musings       
+- [Wimbledon](#wimbledons)   
 - [Stockholm](#stockholm)   
 - [Buenos Aires](#buenos-aires)  
 - [Beppu](#beppu)   
 - [Books](#books)   
 - [Albums](#albums)   
+
+### Wimbledon   
+<h2><sub><sup>(July, 2024)</sup></sub></h2> 
+<ul style="list-style-type:none;">
+I was looking up at the ceiling of my Putney hotel at 5AM thinking to myself, “man, am I really about to go line up for six hours at the crack of dawn to watch some tennis?” But I figured I better get out of the bed, considering I flew 4000 miles across the pond for this. 
+
+Setting out from Putney to Wimbledon in the dark, I tried reassuring myself that getting up early and joining the [Wimbledon Queue](https://www.wimbledon.com/pdf/The_Queue_Guide_2024.pdf) would be a worthwhile endeavor. What I didn’t realize at the time was that remarkably, The Queue would be just as memorable as the tennis itself. 
+
+I had heard in passing that the British were good at queing - in fact, they even liked it (unfathomable stuff as an American). When I officially joined the line at 6:20AM as person number 6346, I immediately recognized that this was no ordinary line - nothing that I had experienced before. When I entered, a Wimbledon official line leader told me where exactly to go and sit down, another official holding a flag marked with the letter “Q” could be visible to signify the start of the queue, and ropes demarcated the snaking of the lines. No hassle, no confusion - just join the queue.  
+<BR>  
+<p float="left">
+  <img src="./photos/wb_1.jpg" width="221" />
+  <img src="./photos/wb_2.jpg" width="221" /> 
+  <img src="./photos/wb_3.jpg" width="221" />
+</p>    
+<BR>  
+As the sun rose, the conversations with my neighbors began and so did the fun. I introduced myself to the local Brits, Argentines, and Aussies that were queued nearby. Every ten minutes, one could hear the opening of a beer can, popping of champaign, or uncorking of wine. We spoke about which matches and players we were hoping to watch, how far we’ve traveled, and what to expect once on the grounds. We were the commoners who cared for tennis enough to wait six hours starting at dawn, and I was convinced that the wait ahead of us would unite us strangers. At one point when I looked at the expanse of the entire field of those who came to wait, I realized that I had never seen a group of people so happy to queue. I saw people drinking, laughing, playing cards, having a picnic, volleying a tennis ball. With each passing hour, my excitement and anticipation grew.  
+
+Around the four and five hour mark, the long snaking line began to move towards the entrance. My mind began imagining what it would be like inside. The excitement in the queue was palpable, we were getting closer. At hour six, we finally approached the entrance to the grounds where the signage became more official. Smiling now, I went through the security checkpoint and took it all in - centre court, the draw board, the ornate decor, and the immensity of the prestine grounds. If you’re a tennis fan, it’s really worth checking out at least once in your life.  
+
+The queue turned out to be a strikingly human experience - an organized pilgrimage and sherpherding of the well mannered common man into the hollowed grounds of Wimbledon. It is a celebration of sport and a valuable experience in itself. Sure, watching Ben Shelton’s 135mph serve go untouched and the ensuing chalk fly into the air was quite memorable, but so was the queue.   
+
+
+
+</ul>  
+
 
 ### Stockholm  
 <h2><sub><sup>(July, 2023)</sup></sub></h2> 

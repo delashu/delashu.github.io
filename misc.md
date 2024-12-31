@@ -11,9 +11,11 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| A Cook's Tour |  Anthony Bourdain   | 12/2024         | In Progress           |
+| The Elephant Vanishes |  Haruki Murakami   | 12/2024         | 12/2024           |
 | Rise |  Siya Kolisi   | 11/2024         | 12/2024           |
 | Ikigai |  Garcia, Miralles   | 09/2024         | 09/2024           |
-| Meditations |  Marcus Aurelius   | 09/2024         | In Progress           |
+| Meditations |  Marcus Aurelius   | 09/2024         | 11/2024           |
 | The Death and Life of Great American Cities |  Jane Jacobs   | 06/2022         | In Progress           |
 | Wa |  Kaki Okumura   | 08/2024         | 08/2024           |
 | The Screwtape Letters |  C.S. Lewis   | 08/2024         | 08/2024           |
