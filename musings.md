@@ -4,7 +4,7 @@ title: Musings
 nav_order: 4
 ---
 ## Musings       
-- [Wimbledon](#wimbledons)   
+- [Wimbledon](#wimbledon)   
 - [Stockholm](#stockholm)   
 - [Buenos Aires](#buenos-aires)  
 - [Beppu](#beppu)   
@@ -16,7 +16,7 @@ nav_order: 4
 <ul style="list-style-type:none;">
 I was looking up at the ceiling of my Putney hotel at 5AM thinking to myself, “man, am I really about to go line up for six hours at the crack of dawn to watch some tennis?” But I figured I better get out of the bed, considering I flew 4000 miles across the pond for this. 
 
-Setting out from Putney to Wimbledon in the dark, I tried reassuring myself that getting up early and joining the [Wimbledon Queue](https://www.wimbledon.com/pdf/The_Queue_Guide_2024.pdf) would be a worthwhile endeavor. What I didn’t realize at the time was that remarkably, The Queue would be just as memorable as the tennis itself. 
+Setting out from Putney to Wimbledon in the dark, I tried reassuring myself that getting up early and joining the <a href="https://www.wimbledon.com/pdf/The_Queue_Guide_2024.pdf">Wimbledon Queue</a> would be a worthwhile endeavor. What I didn’t realize at the time was that remarkably, The Queue would be just as memorable as the tennis itself. 
 
 I had heard in passing that the British were good at queing - in fact, they even liked it (unfathomable stuff as an American). When I officially joined the line at 6:20AM as person number 6346, I immediately recognized that this was no ordinary line - nothing that I had experienced before. When I entered, a Wimbledon official line leader told me where exactly to go and sit down, another official holding a flag marked with the letter “Q” could be visible to signify the start of the queue, and ropes demarcated the snaking of the lines. No hassle, no confusion - just join the queue.  
 <BR>  
