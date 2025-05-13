@@ -11,7 +11,13 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
-| A Cook's Tour |  Anthony Bourdain   | 12/2024         | In Progress           |
+| Butter |  Asako Yuzuki   | 05/2025         | In Progress           |
+| Hard Landing |  Thomas Petzinger   | 05/2025         | In Progress           |
+| Talking to Strangers |  Malcolm Gladwell   | 04/2025         | 05/2025           |
+| The Formula |  Clegg & Robinson   | 03/2025         | 04/2025           |
+| The Upstairs Delicatessen |  Dwight Garner   | 02/2025         | 04/2025           |
+| The Temple of the Golden Pavillion |  Yukio Mishima   | 02/2025         | 03/2025           |
+| A Cook's Tour |  Anthony Bourdain   | 12/2024         | 01/2025           |
 | The Elephant Vanishes |  Haruki Murakami   | 12/2024         | 12/2024           |
 | Rise |  Siya Kolisi   | 11/2024         | 12/2024           |
 | Ikigai |  Garcia, Miralles   | 09/2024         | 09/2024           |
