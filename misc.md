@@ -11,7 +11,9 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
-| Butter |  Asako Yuzuki   | 05/2025         | In Progress           |
+| The Master |  Christopher Clarey   | 05/2025         | In Progress           |
+| Beloved |  Toni Morrison   | 05/2025         | In Progress           |
+| Butter |  Asako Yuzuki   | 05/2025         | 05/2025           |
 | Hard Landing |  Thomas Petzinger   | 05/2025         | In Progress           |
 | Talking to Strangers |  Malcolm Gladwell   | 04/2025         | 05/2025           |
 | The Formula |  Clegg & Robinson   | 03/2025         | 04/2025           |
