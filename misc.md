@@ -11,8 +11,10 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
-| The Master |  Christopher Clarey   | 05/2025         | In Progress           |
-| Beloved |  Toni Morrison   | 05/2025         | In Progress           |
+| A Book of Five Rings |  Miyamoto Musashi   | 08/2025         | In Progress           |
+| Five Banners |  John Feinstein   | 08/2025         | In Progress           |
+| The Master |  Christopher Clarey   | 05/2025         | 07/2025           |
+| Beloved |  Toni Morrison   | 05/2025         | 08/2025           |
 | Butter |  Asako Yuzuki   | 05/2025         | 05/2025           |
 | Hard Landing |  Thomas Petzinger   | 05/2025         | In Progress           |
 | Talking to Strangers |  Malcolm Gladwell   | 04/2025         | 05/2025           |
