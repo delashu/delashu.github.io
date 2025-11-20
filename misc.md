@@ -13,7 +13,7 @@ A list of books I have recently read.
 |:-------------|:------------------|:-------------|:---------------|
 | Farewell to Manzanar |  James D. Houston and Jeanne Wakatsuki Houston   | 11/2025         | 11/2025           |
 | A Book of Five Rings |  Miyamoto Musashi   | 08/2025         | In Progress           |
-| Five Banners |  John Feinstein   | 08/2025         | In Progress           |
+| Five Banners |  John Feinstein   | 08/2025         | 09/2025           |
 | The Master |  Christopher Clarey   | 05/2025         | 07/2025           |
 | Beloved |  Toni Morrison   | 05/2025         | 08/2025           |
 | Butter |  Asako Yuzuki   | 05/2025         | 05/2025           |
