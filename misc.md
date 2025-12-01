@@ -11,6 +11,11 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| The Diary of a Young Girl |  Anne Frank   | 11/2025         | In Progress           |
+| The Soul of a Butterfly |  Muhammad Ali   | 11/2025         | 11/2025           |
+| Before the Coffee Gets Cold |  Toshikazu Kawaguchi   | 11/2025         | 11/2025           |
+| The Psychology of Money |  Morgan Housel   | 11/2025         | 11/2025           |
+| Rafa |  Nadal, Carlin   | 11/2025         | 11/2025           |
 | Farewell to Manzanar |  James D. Houston and Jeanne Wakatsuki Houston   | 11/2025         | 11/2025           |
 | A Book of Five Rings |  Miyamoto Musashi   | 08/2025         | In Progress           |
 | Five Banners |  John Feinstein   | 08/2025         | 09/2025           |
