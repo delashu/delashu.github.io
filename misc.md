@@ -11,6 +11,8 @@ A list of books I have recently read.
 
 | Title        | Author            | Started | Completed |
 |:-------------|:------------------|:-------------|:---------------|
+| Built to Last |  Collins & Porras  | 1/2026         | In Progress           |
+| The Quiet American |  Graham Greene   | 12/2025         | 12/2025           |
 | The Diary of a Young Girl |  Anne Frank   | 11/2025         | 12/2025           |
 | The Soul of a Butterfly |  Muhammad Ali   | 11/2025         | 11/2025           |
 | Before the Coffee Gets Cold |  Toshikazu Kawaguchi   | 11/2025         | 11/2025           |
